@@ -20,4 +20,4 @@ O dataset utilizado é fictício e contém dados de vendas de uma empresa.
 Arquivo:
 
 ```text
-data/base_vendas.csv
+base_vendas.csv
