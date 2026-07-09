@@ -1,14 +1,1138 @@
 ano_mes,regiao,uf,categoria,produto,canal_venda,vendedor,qtd_pedidos,qtd_itens_vendidos,receita_liquida_total,custo_total,lucro_total,margem_lucro_pct,ticket_medio
+2025/01,Centro-Oeste,GO,Móveis,Mesa Office,Marketplace,Diego Alves,1,1,689.55,453.52,236.03,34.23,689.55
+2025/01,Centro-Oeste,GO,Telefonia,Smartphone X,Loja Física,Diego Alves,1,2,5259.33,4129.46,1129.87,21.48,5259.33
+2025/01,Centro-Oeste,GO,Telefonia,Smartphone X,Marketplace,Diego Alves,1,2,4916.08,4213.02,703.06,14.3,4916.08
+2025/01,Nordeste,BA,Acessórios,Headset Gamer,Loja Física,Ana Souza,1,10,2352.99,972.2,1380.79,58.68,2352.99
+2025/01,Nordeste,BA,Acessórios,Mouse Wireless,E-commerce,Diego Alves,1,1,98.23,36.06,62.17,63.29,98.23
+2025/01,Nordeste,BA,Acessórios,Mouse Wireless,Representante,Diego Alves,1,1,89.42,40.04,49.38,55.22,89.42
+2025/01,Nordeste,BA,Acessórios,Teclado Mecânico,Representante,Ana Souza,1,4,1333.6,632.88,700.72,52.54,1333.6
+2025/01,Nordeste,BA,Acessórios,Webcam Full HD,Representante,Bruno Lima,1,8,1758.18,744.0,1014.18,57.68,1758.18
+2025/01,Nordeste,BA,Informática,Monitor 24,Representante,Ana Souza,1,1,938.87,599.99,338.88,36.09,938.87
+2025/01,Nordeste,BA,Informática,Monitor 24,Representante,Diego Alves,1,2,1683.24,1156.26,526.98,31.31,1683.24
+2025/01,Nordeste,BA,Móveis,Cadeira Ergonômica,E-commerce,Bruno Lima,1,4,6047.32,3813.72,2233.6,36.94,6047.32
+2025/01,Nordeste,PE,Acessórios,Headset Gamer,Representante,Bruno Lima,1,6,1482.06,630.6,851.46,57.45,1482.06
+2025/01,Nordeste,PE,Acessórios,Headset Gamer,Representante,Fernanda Rocha,1,6,1400.11,602.22,797.89,56.99,1400.11
+2025/01,Nordeste,PE,Acessórios,Mouse Wireless,Marketplace,Bruno Lima,1,2,185.94,77.04,108.9,58.57,185.94
+2025/01,Nordeste,PE,Acessórios,Teclado Mecânico,E-commerce,Fernanda Rocha,1,2,624.92,276.86,348.06,55.7,624.92
+2025/01,Nordeste,PE,Acessórios,Teclado Mecânico,Loja Física,Carla Mendes,1,2,620.44,301.02,319.42,51.48,620.44
 2025/01,Nordeste,PE,Informática,Monitor 24,Marketplace,Diego Alves,1,1,843.36,645.74,197.62,23.43,843.36
+2025/01,Nordeste,PE,Informática,Notebook Pro 14,Loja Física,Ana Souza,1,4,14108.98,12065.2,2043.78,14.49,14108.98
+2025/01,Nordeste,PE,Informática,Notebook Pro 14,Representante,Carla Mendes,1,5,22930.8,14260.05,8670.75,37.81,22930.8
+2025/01,Nordeste,PE,Móveis,Cadeira Ergonômica,Loja Física,Diego Alves,1,10,11828.28,8526.1,3302.18,27.92,11828.28
+2025/01,Nordeste,PE,Telefonia,Carregador USB-C,Representante,Bruno Lima,1,1,103.91,44.14,59.77,57.52,103.91
+2025/01,Norte,,Acessórios,Mouse Wireless,Loja Física,Bruno Lima,1,1,99.7,40.26,59.44,59.62,99.7
+2025/01,Norte,AM,Acessórios,Teclado Mecânico,E-commerce,Ana Souza,1,1,338.45,143.93,194.52,57.47,338.45
+2025/01,Norte,AM,Acessórios,Webcam Full HD,Marketplace,Fernanda Rocha,1,4,836.35,392.52,443.83,53.07,836.35
+2025/01,Norte,AM,Móveis,Cadeira Ergonômica,E-commerce,Fernanda Rocha,1,2,2373.9,1808.28,565.62,23.83,2373.9
+2025/01,Norte,AM,Móveis,Cadeira Ergonômica,Loja Física,Bruno Lima,1,6,7785.01,4848.72,2936.29,37.72,7785.01
+2025/01,Norte,AM,Telefonia,Carregador USB-C,E-commerce,Carla Mendes,1,1,107.35,43.94,63.41,59.07,107.35
+2025/01,Norte,AM,Telefonia,Smartphone X,E-commerce,Bruno Lima,1,2,5043.02,4094.9,948.12,18.8,5043.02
+2025/01,Sudeste,,Informática,Notebook Pro 14,Representante,Bruno Lima,1,5,20202.15,15942.55,4259.6,21.08,20202.15
+2025/01,Sudeste,MG,Acessórios,Headset Gamer,Marketplace,Ana Souza,1,2,457.38,205.1,252.28,55.16,457.38
+2025/01,Sudeste,MG,Acessórios,Teclado Mecânico,E-commerce,Diego Alves,1,1,327.33,152.43,174.9,53.43,327.33
+2025/01,Sudeste,MG,Acessórios,Teclado Mecânico,Loja Física,Bruno Lima,1,5,1615.28,687.35,927.93,57.45,1615.28
 2025/01,Sudeste,MG,Acessórios,Webcam Full HD,E-commerce,Diego Alves,1,4,839.36,377.04,462.32,55.08,839.36
-2025/04,Nordeste,BA,informatica,Teclado Mecânico,E-commerce,Diego Alves,1,1,303.29,137.67,165.62,54.61,303.29
+2025/01,Sudeste,MG,Informática,Monitor 24,Marketplace,Ana Souza,1,2,1781.25,1144.2,637.05,35.76,1781.25
+2025/01,Sudeste,MG,Informática,Notebook Pro 14,E-commerce,Ana Souza,1,3,11488.5,9443.34,2045.16,17.8,11488.5
+2025/01,Sudeste,MG,Móveis,Cadeira Ergonômica,Marketplace,Diego Alves,1,1,1369.82,848.23,521.59,38.08,1369.82
+2025/01,Sudeste,MG,Móveis,Mesa Office,Loja Física,Diego Alves,1,2,1594.9,937.9,657.0,41.19,1594.9
+2025/01,Sudeste,MG,Telefonia,Smartphone X,E-commerce,Diego Alves,1,2,5011.46,3799.1,1212.36,24.19,5011.46
+2025/01,Sudeste,RJ,Acessórios,Teclado Mecânico,Representante,Carla Mendes,2,13,4140.63,1775.3899999999999,2365.2400000000002,57.12,2070.32
+2025/01,Sudeste,RJ,Informática,Monitor 24,Loja Física,Fernanda Rocha,1,1,909.39,568.2,341.19,37.52,909.39
+2025/01,Sudeste,RJ,Móveis,Cadeira Ergonômica,Representante,Carla Mendes,1,3,3657.18,2522.7,1134.48,31.02,3657.18
+2025/01,Sudeste,RJ,Móveis,Mesa Office,Loja Física,Bruno Lima,1,3,2331.84,1332.78,999.06,42.84,2331.84
+2025/01,Sudeste,SP,Acessórios,Headset Gamer,E-commerce,Carla Mendes,1,4,1006.88,436.2,570.68,56.68,1006.88
+2025/01,Sudeste,SP,Acessórios,Headset Gamer,Marketplace,,1,3,789.39,324.21,465.18,58.93,789.39
+2025/01,Sudeste,SP,Acessórios,Mouse Wireless,E-commerce,Diego Alves,1,1,94.05,35.49,58.56,62.26,94.05
+2025/01,Sudeste,SP,Acessórios,Mouse Wireless,Representante,Ana Souza,1,2,180.3,82.88,97.42,54.03,180.3
+2025/01,Sudeste,SP,Acessórios,Teclado Mecânico,Marketplace,Fernanda Rocha,1,3,880.35,408.21,472.14,53.63,880.35
+2025/01,Sudeste,SP,Acessórios,Webcam Full HD,Loja Física,Diego Alves,1,3,602.83,294.39,308.44,51.17,602.83
+2025/01,Sudeste,SP,Informática,Monitor 24,Loja Física,Fernanda Rocha,1,2,1778.26,1263.1,515.16,28.97,1778.26
+2025/01,Sudeste,SP,Informática,Monitor 24,Marketplace,Ana Souza,1,3,2404.87,1953.93,450.94,18.75,2404.87
+2025/01,Sudeste,SP,Móveis,Mesa Office,Marketplace,Ana Souza,1,3,2021.93,1407.72,614.21,30.38,2021.93
+2025/01,Sudeste,SP,Telefonia,Smartphone X,Marketplace,Fernanda Rocha,1,1,2600.3,2095.69,504.61,19.41,2600.3
+2025/01,Sul,PR,Acessórios,Mouse Wireless,E-commerce,Bruno Lima,1,2,205.35,73.68,131.67,64.12,205.35
+2025/01,Sul,PR,Acessórios,Mouse Wireless,Marketplace,Ana Souza,1,4,425.04,156.92,268.12,63.08,425.04
+2025/01,Sul,PR,Acessórios,Teclado Mecânico,E-commerce,Bruno Lima,1,2,572.11,269.78,302.33,52.84,572.11
+2025/01,Sul,PR,Acessórios,Webcam Full HD,Representante,Fernanda Rocha,1,1,199.41,96.58,102.83,51.57,199.41
+2025/01,Sul,PR,Informática,Notebook Pro 14,Representante,Diego Alves,2,9,38524.13,26023.32,12500.810000000001,32.45,19262.07
+2025/01,Sul,PR,Móveis,Cadeira Ergonômica,E-commerce,Ana Souza,1,1,1375.44,918.61,456.83,33.21,1375.44
+2025/01,Sul,RS,Acessórios,Headset Gamer,Marketplace,Bruno Lima,1,2,476.99,204.02,272.97,57.23,476.99
+2025/01,Sul,RS,Acessórios,Headset Gamer,Marketplace,Carla Mendes,1,1,226.82,102.85,123.97,54.66,226.82
+2025/01,Sul,RS,Acessórios,Mouse Wireless,Loja Física,Ana Souza,1,3,302.7,113.97,188.73,62.35,302.7
+2025/01,Sul,RS,Acessórios,Webcam Full HD,E-commerce,Diego Alves,1,8,1470.91,758.4,712.51,48.44,1470.91
+2025/01,Sul,RS,Acessórios,Webcam Full HD,Loja Física,Ana Souza,1,1,163.88,87.59,76.29,46.55,163.88
+2025/01,Sul,RS,Acessórios,Webcam Full HD,Representante,Bruno Lima,1,1,215.18,94.62,120.56,56.03,215.18
+2025/01,Sul,RS,Informática,Notebook Pro 14,Marketplace,Ana Souza,1,4,15349.92,11241.24,4108.68,26.77,15349.92
+2025/02,Centro-Oeste,GO,Acessórios,Headset Gamer,E-commerce,Diego Alves,1,4,899.52,421.24,478.28,53.17,899.52
+2025/02,Centro-Oeste,GO,Acessórios,Webcam Full HD,Marketplace,Carla Mendes,1,1,182.05,97.99,84.06,46.17,182.05
+2025/02,Centro-Oeste,GO,Móveis,Cadeira Ergonômica,E-commerce,Bruno Lima,1,8,11780.8,7378.32,4402.48,37.37,11780.8
+2025/02,Centro-Oeste,GO,Móveis,Cadeira Ergonômica,Loja Física,Carla Mendes,1,1,1367.82,916.64,451.18,32.99,1367.82
+2025/02,Centro-Oeste,GO,Móveis,Mesa Office,Loja Física,Ana Souza,1,4,2823.48,1817.68,1005.8,35.62,2823.48
+2025/02,Centro-Oeste,GO,Móveis,Mesa Office,Marketplace,Carla Mendes,1,5,3773.11,2279.05,1494.06,39.6,3773.11
+2025/02,Centro-Oeste,GO,Telefonia,Carregador USB-C,Loja Física,Bruno Lima,1,8,723.31,330.4,392.91,54.32,723.31
+2025/02,Centro-Oeste,GO,Telefonia,Carregador USB-C,Marketplace,Ana Souza,1,2,207.66,77.92,129.74,62.48,207.66
+2025/02,Nordeste,BA,Acessórios,Teclado Mecânico,Marketplace,Carla Mendes,1,1,282.89,150.15,132.74,46.92,282.89
+2025/02,Nordeste,BA,Acessórios,Webcam Full HD,Representante,Ana Souza,1,1,190.52,84.51,106.01,55.64,190.52
+2025/02,Nordeste,BA,Acessórios,Webcam Full HD,Representante,Carla Mendes,1,3,698.16,264.3,433.86,62.14,698.16
+2025/02,Nordeste,BA,Informática,Monitor 24,E-commerce,Carla Mendes,1,2,1955.98,1243.7,712.28,36.42,1955.98
+2025/02,Nordeste,BA,Informática,Notebook Pro 14,Marketplace,Fernanda Rocha,1,1,3921.55,2924.49,997.06,25.43,3921.55
+2025/02,Nordeste,BA,Móveis,Mesa Office,E-commerce,Bruno Lima,1,1,648.52,458.07,190.45,29.37,648.52
+2025/02,Nordeste,BA,Telefonia,Carregador USB-C,Loja Física,Carla Mendes,1,5,549.75,199.15,350.6,63.77,549.75
+2025/02,Nordeste,BA,Telefonia,Carregador USB-C,Representante,Diego Alves,1,1,116.09,38.69,77.4,66.67,116.09
+2025/02,Nordeste,BA,Telefonia,Smartphone X,Marketplace,Carla Mendes,1,1,2767.86,1939.0,828.86,29.95,2767.86
+2025/02,Nordeste,PE,Acessórios,Mouse Wireless,Loja Física,Fernanda Rocha,1,2,169.44,73.36,96.08,56.7,169.44
+2025/02,Nordeste,PE,Informática,Notebook Pro 14,Loja Física,Bruno Lima,1,2,8665.76,5941.32,2724.44,31.44,8665.76
+2025/02,Nordeste,PE,Telefonia,Carregador USB-C,Marketplace,Ana Souza,1,2,203.44,85.88,117.56,57.79,203.44
+2025/02,Norte,AM,Acessórios,Mouse Wireless,Representante,Diego Alves,1,10,1011.7,401.5,610.2,60.31,1011.7
+2025/02,Norte,AM,Acessórios,Teclado Mecânico,Representante,Diego Alves,1,4,1204.16,543.88,660.28,54.83,1204.16
+2025/02,Norte,AM,Acessórios,Webcam Full HD,Loja Física,Ana Souza,1,1,181.87,90.22,91.65,50.39,181.87
+2025/02,Norte,AM,Informática,Monitor 24,Loja Física,Bruno Lima,1,3,2754.61,1892.46,862.15,31.3,2754.61
+2025/02,Norte,AM,Informática,Monitor 24,Representante,Carla Mendes,1,3,2757.33,2007.6,749.73,27.19,2757.33
+2025/02,Sudeste,,Acessórios,Mouse Wireless,Loja Física,Carla Mendes,1,1,90.46,39.36,51.1,56.49,90.46
+2025/02,Sudeste,MG,Acessórios,Headset Gamer,E-commerce,Diego Alves,1,3,714.15,298.68,415.47,58.18,714.15
+2025/02,Sudeste,MG,Acessórios,Teclado Mecânico,Loja Física,Fernanda Rocha,1,3,938.37,431.85,506.52,53.98,938.37
+2025/02,Sudeste,MG,Telefonia,Carregador USB-C,E-commerce,Bruno Lima,1,2,223.38,83.34,140.04,62.69,223.38
+2025/02,Sudeste,MG,Telefonia,Smartphone X,E-commerce,Bruno Lima,1,3,9045.42,6085.68,2959.74,32.72,9045.42
+2025/02,Sudeste,MG,Telefonia,Smartphone X,Marketplace,Ana Souza,1,1,2833.18,2060.74,772.44,27.26,2833.18
+2025/02,Sudeste,RJ,Móveis,Cadeira Ergonômica,Representante,Diego Alves,1,6,8520.08,4883.76,3636.32,42.68,8520.08
+2025/02,Sudeste,SP,Acessórios,Mouse Wireless,E-commerce,Bruno Lima,1,3,288.63,114.21,174.42,60.43,288.63
+2025/02,Sudeste,SP,Acessórios,Mouse Wireless,Representante,Fernanda Rocha,1,2,193.07,83.12,109.95,56.95,193.07
+2025/02,Sudeste,SP,Acessórios,Teclado Mecânico,E-commerce,Carla Mendes,1,10,3314.55,1516.9,1797.65,54.24,3314.55
+2025/02,Sudeste,SP,Acessórios,Teclado Mecânico,Representante,Bruno Lima,1,4,1429.0,543.68,885.32,61.95,1429.0
+2025/02,Sudeste,SP,Informática,Monitor 24,Marketplace,Ana Souza,1,2,1806.57,1197.66,608.91,33.71,1806.57
+2025/02,Sudeste,SP,Móveis,Cadeira Ergonômica,Loja Física,Fernanda Rocha,1,5,6367.9,4531.4,1836.5,28.84,6367.9
+2025/02,Sudeste,SP,Móveis,Cadeira Ergonômica,Marketplace,Ana Souza,1,1,1492.39,839.98,652.41,43.72,1492.39
+2025/02,Sudeste,SP,Móveis,Mesa Office,E-commerce,Fernanda Rocha,1,1,762.9,447.91,314.99,41.29,762.9
+2025/02,Sudeste,SP,Móveis,Mesa Office,Representante,,1,2,1440.36,836.28,604.08,41.94,1440.36
+2025/02,Sudeste,SP,Telefonia,Carregador USB-C,Loja Física,Bruno Lima,2,8,846.3499999999999,340.93,505.42,59.72,423.18
+2025/02,Sudeste,SP,Telefonia,Carregador USB-C,Marketplace,Carla Mendes,1,8,730.66,350.72,379.94,52.0,730.66
+2025/02,Sudeste ,GO,Informática,Notebook Pro 14,Marketplace,Fernanda Rocha,1,1,3708.8,2992.47,716.33,19.31,3708.8
+2025/02,Sudeste ,RS,Informática,Notebook Pro 14,Representante,Carla Mendes,1,2,8085.66,6630.04,1455.62,18.0,8085.66
+2025/02,Sul,PR,Telefonia,Carregador USB-C,E-commerce,Diego Alves,1,2,241.1,88.42,152.68,63.33,241.1
+2025/02,Sul,PR,Telefonia,Smartphone X,E-commerce,Bruno Lima,1,10,24056.47,19117.4,4939.07,20.53,24056.47
+2025/02,Sul,PR,Telefonia,Smartphone X,Marketplace,Ana Souza,1,6,16135.78,11949.9,4185.88,25.94,16135.78
+2025/02,Sul,RS,Acessórios,Mouse Wireless,Marketplace,Carla Mendes,1,1,97.55,38.75,58.8,60.28,97.55
+2025/02,Sul,RS,Acessórios,Webcam Full HD,E-commerce,Fernanda Rocha,1,2,441.03,184.3,256.73,58.21,441.03
+2025/02,Sul,RS,Acessórios,Webcam Full HD,Loja Física,Carla Mendes,1,3,582.42,249.96,332.46,57.08,582.42
+2025/02,Sul,RS,Informática,Monitor 24,E-commerce,Diego Alves,1,6,5037.06,4020.48,1016.58,20.18,5037.06
+2025/02,Sul,RS,Informática,Notebook Pro 14,Representante,Bruno Lima,1,1,4264.65,3345.33,919.32,21.56,4264.65
+2025/02,Sul,RS,Móveis,Cadeira Ergonômica,E-commerce,Diego Alves,1,2,2338.31,1638.8,699.51,29.92,2338.31
+2025/02,Sul,RS,Telefonia,Smartphone X,Loja Física,Diego Alves,1,2,5089.22,4232.26,856.96,16.84,5089.22
+2025/03,Centro-Oeste,GO,Acessórios,Teclado Mecânico,Loja Física,Carla Mendes,1,4,1345.76,631.6,714.16,53.07,1345.76
+2025/03,Centro-Oeste,GO,Acessórios,Teclado Mecânico,Marketplace,Fernanda Rocha,1,8,2670.24,1265.12,1405.12,52.62,2670.24
+2025/03,Centro-Oeste,GO,Acessórios,Webcam Full HD,E-commerce,Carla Mendes,1,2,439.14,184.1,255.04,58.08,439.14
+2025/03,Centro-Oeste,GO,Informática,Monitor 24,E-commerce,Ana Souza,1,5,4041.58,3223.35,818.23,20.25,4041.58
+2025/03,Centro-Oeste,GO,Informática,Monitor 24,E-commerce,Bruno Lima,1,1,940.45,587.05,353.4,37.58,940.45
+2025/03,Centro-Oeste,GO,Informática,Notebook Pro 14,Marketplace,Diego Alves,1,1,4124.34,3104.37,1019.97,24.73,4124.34
+2025/03,Centro-Oeste,GO,Móveis,Cadeira Ergonômica,E-commerce,Ana Souza,1,3,4495.41,2845.77,1649.64,36.7,4495.41
+2025/03,Centro-Oeste,GO,Móveis,Mesa Office,E-commerce,Diego Alves,1,6,4618.51,2625.18,1993.33,43.16,4618.51
+2025/03,Centro-Oeste,GO,Móveis,Mesa Office,E-commerce,Fernanda Rocha,1,2,1439.86,917.64,522.22,36.27,1439.86
+2025/03,Nordeste,BA,Acessórios,Teclado Mecânico,Loja Física,Ana Souza,1,1,291.55,135.54,156.01,53.51,291.55
+2025/03,Nordeste,BA,Acessórios,Webcam Full HD,E-commerce,Fernanda Rocha,1,5,1019.32,424.8,594.52,58.33,1019.32
+2025/03,Nordeste,BA,Informática,Monitor 24,E-commerce,Ana Souza,1,1,900.25,621.97,278.28,30.91,900.25
+2025/03,Nordeste,BA,Informática,Notebook Pro 14,Marketplace,Ana Souza,1,1,4319.49,3052.45,1267.04,29.33,4319.49
+2025/03,Nordeste,BA,Móveis,Mesa Office,Representante,Fernanda Rocha,1,3,2166.13,1197.36,968.77,44.72,2166.13
+2025/03,Nordeste,BA,Telefonia,Smartphone X,E-commerce,Bruno Lima,1,3,8793.66,5670.39,3123.27,35.52,8793.66
+2025/03,Nordeste,PE,Acessórios,Teclado Mecânico,Marketplace,Carla Mendes,1,4,1077.01,624.64,452.37,42.0,1077.01
+2025/03,Nordeste,PE,Acessórios,Teclado Mecânico,ecommerce,Ana Souza,1,2,626.7,315.7,311.0,49.63,626.7
+2025/03,Nordeste,PE,Informática,Notebook Pro 14,Loja Física,Ana Souza,1,3,14008.8,9020.28,4988.52,35.61,14008.8
+2025/03,Nordeste,PE,Móveis,Cadeira Ergonômica,Loja Física,Ana Souza,1,10,12498.84,8926.0,3572.84,28.59,12498.84
+2025/03,Nordeste,PE,Telefonia,Carregador USB-C,Loja Física,Fernanda Rocha,1,8,775.08,361.36,413.72,53.38,775.08
+2025/03,Norte,AM,Acessórios,Headset Gamer,Loja Física,Bruno Lima,1,3,747.9,300.51,447.39,59.82,747.9
+2025/03,Norte,AM,Acessórios,Mouse Wireless,Representante,Fernanda Rocha,1,1,91.1,37.75,53.35,58.56,91.1
+2025/03,Norte,AM,Acessórios,Teclado Mecânico,Representante,Ana Souza,1,2,560.71,270.06,290.65,51.84,560.71
+2025/03,Norte,AM,Acessórios,Webcam Full HD,Loja Física,Carla Mendes,1,10,2336.2,946.0,1390.2,59.51,2336.2
+2025/03,Norte,AM,Informática,Notebook Pro 14,E-commerce,Carla Mendes,1,4,16542.04,12307.76,4234.28,25.6,16542.04
+2025/03,Norte,AM,Informática,Notebook Pro 14,Representante,Bruno Lima,1,2,7297.18,6240.5,1056.68,14.48,7297.18
+2025/03,Norte,AM,Informática,Notebook Pro 14,Representante,Diego Alves,1,4,14210.06,12832.12,1377.94,9.7,14210.06
+2025/03,Sudeste,MG,Informática,Notebook Pro 14,E-commerce,Diego Alves,1,5,20948.31,16058.75,4889.56,23.34,20948.31
+2025/03,Sudeste,MG,Telefonia,Smartphone X,Loja Física,Bruno Lima,1,4,9801.83,8125.28,1676.55,17.1,9801.83
+2025/03,Sudeste,RJ,Acessórios,Headset Gamer,Representante,Diego Alves,1,5,1099.88,558.7,541.18,49.2,1099.88
+2025/03,Sudeste,RJ,Acessórios,Webcam Full HD,Representante,Fernanda Rocha,1,5,1117.73,450.9,666.83,59.66,1117.73
+2025/03,Sudeste,RJ,Móveis,Cadeira Ergonômica,Loja Física,Bruno Lima,1,2,2647.68,1818.62,829.06,31.31,2647.68
+2025/03,Sudeste,RJ,Móveis,Cadeira Ergonômica,Marketplace,Ana Souza,1,4,5132.76,3305.12,1827.64,35.61,5132.76
+2025/03,Sudeste,RJ,Telefonia,Carregador USB-C,Loja Física,Bruno Lima,1,1,93.4,39.99,53.41,57.18,93.4
+2025/03,Sudeste,RJ,Telefonia,Carregador USB-C,Loja Física,Carla Mendes,1,4,402.16,183.72,218.44,54.32,402.16
+2025/03,Sudeste,SP,Acessórios,Headset Gamer,Marketplace,Carla Mendes,1,1,206.51,109.7,96.81,46.88,206.51
+2025/03,Sudeste,SP,Acessórios,Mouse Wireless,Marketplace,Fernanda Rocha,1,4,348.88,155.16,193.72,55.53,348.88
+2025/03,Sudeste,SP,Acessórios,Teclado Mecânico,E-commerce,Carla Mendes,1,3,898.53,476.1,422.43,47.01,898.53
+2025/03,Sudeste,SP,Acessórios,Teclado Mecânico,Representante,Diego Alves,1,1,345.23,150.6,194.63,56.38,345.23
+2025/03,Sudeste,SP,Informática,Monitor 24,Loja Física,Carla Mendes,1,3,2668.94,1757.46,911.48,34.15,2668.94
+2025/03,Sudeste,SP,Informática,Monitor 24,Loja Física,Diego Alves,1,1,870.86,563.02,307.84,35.35,870.86
+2025/03,Sudeste,SP,Informática,Monitor 24,Representante,Diego Alves,1,1,927.93,656.99,270.94,29.2,927.93
+2025/03,Sudeste,SP,Informática,Notebook Pro 14,Representante,Diego Alves,1,2,7980.0,6274.58,1705.42,21.37,7980.0
+2025/03,Sudeste,SP,Móveis,Mesa Office,Representante,Fernanda Rocha,1,1,802.09,456.54,345.55,43.08,802.09
+2025/03,Sul,PR,Acessórios,Headset Gamer,Loja Física,Ana Souza,1,2,463.8,195.96,267.84,57.75,463.8
+2025/03,Sul,PR,Acessórios,Webcam Full HD,Marketplace,Diego Alves,1,1,221.43,86.5,134.93,60.94,221.43
+2025/03,Sul,PR,Informática,Monitor 24,Representante,Fernanda Rocha,1,2,1643.26,1236.42,406.84,24.76,1643.26
+2025/03,Sul,PR,Informática,Notebook Pro 14,Marketplace,Fernanda Rocha,1,3,12521.63,8981.13,3540.5,28.28,12521.63
+2025/03,Sul,PR,Móveis,Mesa Office,E-commerce,Diego Alves,1,8,6128.46,3659.12,2469.34,40.29,6128.46
+2025/03,Sul,PR,Telefonia,Smartphone X,Marketplace,Fernanda Rocha,1,2,5456.55,3913.32,1543.23,28.28,5456.55
+2025/03,Sul,RS,Acessórios,Headset Gamer,Marketplace,Diego Alves,1,1,232.36,113.07,119.29,51.34,232.36
+2025/03,Sul,RS,Acessórios,Teclado Mecânico,E-commerce,Diego Alves,1,3,1013.82,461.31,552.51,54.5,1013.82
+2025/03,Sul,RS,Informática,Monitor 24,Loja Física,Diego Alves,1,10,9200.0,5859.3,3340.7,36.31,9200.0
+2025/03,Sul,RS,Informática,Monitor 24,Representante,Fernanda Rocha,2,3,2870.87,1776.78,1094.09,38.11,1435.44
+2025/03,Sul,RS,Informática,Notebook Pro 14,Marketplace,Ana Souza,1,1,4294.99,3058.34,1236.65,28.79,4294.99
+2025/03,Sul,RS,Informática,Notebook Pro 14,Marketplace,Diego Alves,1,1,3997.28,2904.65,1092.63,27.33,3997.28
+2025/03,Sul,RS,Móveis,Cadeira Ergonômica,Loja Física,Diego Alves,1,2,2509.37,1605.3,904.07,36.03,2509.37
+2025/03,Sul,RS,Telefonia,Carregador USB-C,Loja Física,Carla Mendes,1,2,229.68,77.5,152.18,66.26,229.68
+2025/04,Centro-Oeste,GO,Acessórios,Headset Gamer,Loja Física,Ana Souza,1,3,719.03,335.76,383.27,53.3,719.03
+2025/04,Centro-Oeste,GO,Acessórios,Mouse Wireless,Representante,Bruno Lima,1,1,76.15,36.01,40.14,52.71,76.15
+2025/04,Centro-Oeste,GO,Acessórios,Teclado Mecânico,Loja Física,Bruno Lima,1,6,1801.82,898.02,903.8,50.16,1801.82
+2025/04,Centro-Oeste,GO,Móveis,Cadeira Ergonômica,Marketplace,Bruno Lima,1,2,2922.76,1893.76,1029.0,35.21,2922.76
+2025/04,Centro-Oeste,GO,Móveis,Mesa Office,E-commerce,Ana Souza,1,4,2586.35,1758.4,827.95,32.01,2586.35
+2025/04,Centro-Oeste,GO,Telefonia,Smartphone X,Representante,Diego Alves,1,1,2705.52,1954.29,751.23,27.77,2705.52
+2025/04,Nordeste,BA,Acessórios,Teclado Mecânico,E-commerce,Diego Alves,1,1,303.29,137.67,165.62,54.61,303.29
+2025/04,Nordeste,BA,Acessórios,Webcam Full HD,E-commerce,Fernanda Rocha,1,2,381.63,182.22,199.41,52.25,381.63
+2025/04,Nordeste,BA,Acessórios,Webcam Full HD,Loja Física,Bruno Lima,1,3,610.26,279.75,330.51,54.16,610.26
+2025/04,Nordeste,BA,Móveis,Mesa Office,Marketplace,Carla Mendes,1,2,1619.84,892.58,727.26,44.9,1619.84
+2025/04,Nordeste,BA,Telefonia,Carregador USB-C,Marketplace,Ana Souza,1,2,221.28,82.78,138.5,62.59,221.28
+2025/04,Nordeste,BA,Telefonia,Smartphone X,Loja Física,Carla Mendes,1,5,13812.84,10510.25,3302.59,23.91,13812.84
+2025/04,Nordeste,PE,Móveis,Mesa Office,E-commerce,Ana Souza,1,8,5688.0,3731.68,1956.32,34.39,5688.0
+2025/04,Nordeste,PE,Telefonia,Carregador USB-C,E-commerce,Diego Alves,1,3,278.13,120.48,157.65,56.68,278.13
+2025/04,Norte,AM,Acessórios,Headset Gamer,Loja Física,Bruno Lima,1,3,623.57,304.41,319.16,51.18,623.57
+2025/04,Norte,AM,Acessórios,Headset Gamer,Loja Física,Carla Mendes,1,3,656.22,297.42,358.8,54.68,656.22
+2025/04,Norte,AM,Acessórios,Headset Gamer,Representante,Ana Souza,1,2,472.98,227.78,245.2,51.84,472.98
+2025/04,Norte,AM,Acessórios,Mouse Wireless,E-commerce,Bruno Lima,1,5,461.28,189.6,271.68,58.9,461.28
+2025/04,Norte,AM,Acessórios,Webcam Full HD,Loja Física,Carla Mendes,1,5,975.32,433.9,541.42,55.51,975.32
+2025/04,Norte,AM,Acessórios,Webcam Full HD,Loja Física,Fernanda Rocha,1,1,219.66,98.37,121.29,55.22,219.66
+2025/04,Norte,AM,Informática,Monitor 24,Representante,Fernanda Rocha,1,5,4011.8,3322.6,689.2,17.18,4011.8
+2025/04,Norte,AM,Telefonia,Carregador USB-C,E-commerce,Diego Alves,1,6,669.18,245.52,423.66,63.31,669.18
+2025/04,Sudeste,MG,Acessórios,Mouse Wireless,Loja Física,Fernanda Rocha,1,5,524.75,194.55,330.2,62.93,524.75
+2025/04,Sudeste,MG,Acessórios,Webcam Full HD,E-commerce,Diego Alves,1,1,229.6,84.89,144.71,63.03,229.6
+2025/04,Sudeste,MG,Acessórios,Webcam Full HD,Loja Física,Fernanda Rocha,1,1,184.8,85.07,99.73,53.97,184.8
+2025/04,Sudeste,MG,Acessórios,Webcam Full HD,Marketplace,Carla Mendes,1,8,1627.77,779.44,848.33,52.12,1627.77
+2025/04,Sudeste,MG,Informática,Notebook Pro 14,Representante,Bruno Lima,1,2,8947.74,5917.08,3030.66,33.87,8947.74
+2025/04,Sudeste,MG,Informática,Notebook Pro 14,Representante,Fernanda Rocha,1,1,4679.12,2973.01,1706.11,36.46,4679.12
+2025/04,Sudeste,MG,Móveis,Mesa Office,E-commerce,Bruno Lima,1,6,4446.14,2830.56,1615.58,36.34,4446.14
+2025/04,Sudeste,MG,Móveis,Mesa Office,Loja Física,Ana Souza,1,3,2563.05,1377.81,1185.24,46.24,2563.05
+2025/04,Sudeste,MG,Telefonia,Carregador USB-C,E-commerce,Diego Alves,1,2,236.62,78.6,158.02,66.78,236.62
+2025/04,Sudeste,MG,Telefonia,Carregador USB-C,Representante,Fernanda Rocha,1,10,1060.85,410.9,649.95,61.27,1060.85
+2025/04,Sudeste,MG,Telefonia,Smartphone X,E-commerce,Fernanda Rocha,1,4,12111.6,7390.6,4721.0,38.98,12111.6
+2025/04,Sudeste,MG,Telefonia,Smartphone X,Marketplace,Carla Mendes,1,3,8907.51,6459.03,2448.48,27.49,8907.51
+2025/04,Sudeste,RJ,Acessórios,Headset Gamer,E-commerce,Carla Mendes,1,5,1102.25,541.45,560.8,50.88,1102.25
+2025/04,Sudeste,RJ,Informática,Monitor 24,Representante,Bruno Lima,1,10,8453.96,5766.3,2687.66,31.79,8453.96
+2025/04,Sudeste,RJ,Móveis,Cadeira Ergonômica,Marketplace,Ana Souza,1,3,3999.27,2863.47,1135.8,28.4,3999.27
+2025/04,Sudeste,RJ,Móveis,Cadeira Ergonômica,Representante,Bruno Lima,1,8,10202.69,6522.32,3680.37,36.07,10202.69
+2025/04,Sudeste,RJ,Móveis,Mesa Office,E-commerce,Ana Souza,1,2,1677.72,861.66,816.06,48.64,1677.72
+2025/04,Sudeste,RJ,Móveis,Mesa Office,Representante,Diego Alves,1,3,2407.19,1235.67,1171.52,48.67,2407.19
+2025/04,Sudeste,RJ,Móveis,Mesa Office,Representante,Fernanda Rocha,1,2,1656.42,938.1,718.32,43.37,1656.42
+2025/04,Sudeste,SP,Acessórios,Headset Gamer,Representante,Carla Mendes,1,2,487.58,209.02,278.56,57.13,487.58
+2025/04,Sudeste,SP,Informática,Monitor 24,Marketplace,Bruno Lima,2,6,5177.0599999999995,3847.8,1329.2600000000002,25.68,2588.53
+2025/04,Sudeste,SP,Informática,Notebook Pro 14,Marketplace,Carla Mendes,1,5,21141.15,16202.85,4938.3,23.36,21141.15
+2025/04,Sudeste,SP,Telefonia,Carregador USB-C,E-commerce,Carla Mendes,1,2,234.66,80.62,154.04,65.64,234.66
+2025/04,Sudeste,SP,Telefonia,Smartphone X,E-commerce,Carla Mendes,1,1,2495.79,2019.02,476.77,19.1,2495.79
+2025/04,Sudeste ,RJ,Acessórios,Webcam Full HD,Loja Física,Diego Alves,1,1,197.81,90.45,107.36,54.27,197.81
+2025/04,Sul,PR,Acessórios,Mouse Wireless,Marketplace,Carla Mendes,1,3,283.9,108.9,175.0,61.64,283.9
+2025/04,Sul,PR,Acessórios,Webcam Full HD,Representante,Ana Souza,1,1,189.69,98.94,90.75,47.84,189.69
+2025/04,Sul,PR,Informática,Monitor 24,Representante,Carla Mendes,1,1,899.29,621.98,277.31,30.84,899.29
+2025/04,Sul,PR,Informática,Notebook Pro 14,Marketplace,Carla Mendes,1,1,3790.82,2967.98,822.84,21.71,3790.82
+2025/04,Sul,PR,Móveis,Cadeira Ergonômica,Loja Física,Diego Alves,1,5,6527.35,4537.75,1989.6,30.48,6527.35
+2025/04,Sul,PR,Móveis,Mesa Office,Loja Física,Ana Souza,1,3,2202.75,1348.44,854.31,38.78,2202.75
+2025/04,Sul,PR,Telefonia,Carregador USB-C,Loja Física,Fernanda Rocha,1,6,651.36,241.26,410.1,62.96,651.36
+2025/04,Sul,RS,Acessórios,Headset Gamer,Marketplace,Bruno Lima,1,1,233.23,98.4,134.83,57.81,233.23
+2025/04,Sul,RS,Acessórios,Mouse Wireless,Loja Física,Ana Souza,1,3,315.24,107.4,207.84,65.93,315.24
+2025/04,Sul,RS,Acessórios,Webcam Full HD,Loja Física,Ana Souza,1,2,417.18,191.48,225.7,54.1,417.18
+2025/04,Sul,RS,Informática,Notebook Pro 14,E-commerce,Ana Souza,1,5,20806.03,14193.65,6612.38,31.78,20806.03
+2025/04,Sul,RS,Informática,Notebook Pro 14,Marketplace,Fernanda Rocha,1,4,15377.4,13103.2,2274.2,14.79,15377.4
+2025/04,Sul,RS,Móveis,Mesa Office,Representante,Ana Souza,1,4,3317.88,1650.84,1667.04,50.24,3317.88
+2025/04,Sul,RS,Telefonia,Smartphone X,Loja Física,Bruno Lima,1,2,4939.24,4031.3,907.94,18.38,4939.24
 2025/05,Centro-Oeste,GO,Acessórios,Headset Gamer,E-commerce,Diego Alves,1,1,227.33,109.8,117.53,51.7,227.33
+2025/05,Centro-Oeste,GO,Acessórios,Teclado Mecânico,Representante,Carla Mendes,1,5,1697.32,718.3,979.02,57.68,1697.32
+2025/05,Centro-Oeste,GO,Acessórios,Webcam Full HD,E-commerce,Bruno Lima,1,2,428.39,189.0,239.39,55.88,428.39
+2025/05,Centro-Oeste,GO,Acessórios,Webcam Full HD,Marketplace,Carla Mendes,1,1,214.21,86.04,128.17,59.83,214.21
+2025/05,Centro-Oeste,GO,Móveis,Cadeira Ergonômica,Representante,Ana Souza,2,2,2711.87,1662.81,1049.06,38.68,1355.94
+2025/05,Centro-Oeste,GO,Móveis,Mesa Office,Loja Física,,1,8,5342.19,3724.0,1618.19,30.29,5342.19
+2025/05,Centro-Oeste,GO,Telefonia,Carregador USB-C,E-commerce,Fernanda Rocha,1,3,304.23,137.79,166.44,54.71,304.23
+2025/05,Centro-Oeste,GO,Telefonia,Smartphone X,Representante,Ana Souza,1,3,6969.86,5615.31,1354.55,19.43,6969.86
+2025/05,Nordeste,BA,Acessórios,Headset Gamer,Representante,Diego Alves,1,6,1611.66,630.48,981.18,60.88,1611.66
+2025/05,Nordeste,BA,Acessórios,Teclado Mecânico,E-commerce,Diego Alves,1,4,1312.88,545.76,767.12,58.43,1312.88
+2025/05,Nordeste,BA,Acessórios,Teclado Mecânico,Loja Física,Ana Souza,1,3,931.37,428.13,503.24,54.03,931.37
+2025/05,Nordeste,BA,Acessórios,Webcam Full HD,Loja Física,Carla Mendes,1,3,607.61,280.44,327.17,53.85,607.61
+2025/05,Nordeste,BA,Móveis,Mesa Office,E-commerce,Fernanda Rocha,1,2,1531.9,903.18,628.72,41.04,1531.9
+2025/05,Nordeste,BA,Telefonia,Carregador USB-C,E-commerce,Ana Souza,1,2,219.3,88.14,131.16,59.81,219.3
+2025/05,Nordeste,BA,Telefonia,Carregador USB-C,Marketplace,Bruno Lima,1,3,303.27,127.86,175.41,57.84,303.27
+2025/05,Nordeste,PE,Acessórios,Teclado Mecânico,Marketplace,Fernanda Rocha,1,1,336.64,157.85,178.79,53.11,336.64
+2025/05,Nordeste,PE,Acessórios,Webcam Full HD,E-commerce,Bruno Lima,1,4,787.33,370.04,417.29,53.0,787.33
+2025/05,Nordeste,PE,Telefonia,Carregador USB-C,Loja Física,Bruno Lima,1,2,208.67,78.0,130.67,62.62,208.67
+2025/05,Nordeste,PE,Telefonia,Carregador USB-C,Marketplace,Diego Alves,1,2,232.38,89.88,142.5,61.32,232.38
+2025/05,Nordeste,PE,Telefonia,Smartphone X,Loja Física,Diego Alves,1,1,2899.84,1937.85,961.99,33.17,2899.84
+2025/05,Norte,AM,Acessórios,Mouse Wireless,ecommerce,Diego Alves,1,1,87.82,38.4,49.42,56.27,87.82
 2025/05,Norte,AM,Acessórios,Webcam Full HD,E-commerce,Fernanda Rocha,1,2,406.9,167.92,238.98,58.73,406.9
+2025/05,Norte,AM,Acessórios,Webcam Full HD,Loja Física,Diego Alves,1,3,675.24,274.56,400.68,59.34,675.24
+2025/05,Norte,AM,Acessórios,Webcam Full HD,Marketplace,Ana Souza,1,5,888.53,444.5,444.03,49.97,888.53
+2025/05,Norte,AM,Informática,Monitor 24,Representante,Ana Souza,1,1,821.34,613.47,207.87,25.31,821.34
+2025/05,Norte,AM,Móveis,Cadeira Ergonômica,E-commerce,Carla Mendes,1,4,5564.54,3244.48,2320.06,41.69,5564.54
+2025/05,Norte,AM,Móveis,Cadeira Ergonômica,Loja Física,Carla Mendes,1,4,5300.82,3777.76,1523.06,28.73,5300.82
+2025/05,Norte,AM,Móveis,Cadeira Ergonômica,Marketplace,Diego Alves,1,3,3884.55,2821.83,1062.72,27.36,3884.55
+2025/05,Norte,AM,Móveis,Mesa Office,Loja Física,Carla Mendes,1,4,3333.6,1741.48,1592.12,47.76,3333.6
+2025/05,Norte,AM,Telefonia,Smartphone X,Marketplace,Ana Souza,1,1,2544.0,2107.58,436.42,17.15,2544.0
+2025/05,Sudeste,MG,Acessórios,Headset Gamer,Marketplace,Bruno Lima,1,2,459.06,218.52,240.54,52.4,459.06
+2025/05,Sudeste,MG,Acessórios,Mouse Wireless,Loja Física,Diego Alves,1,3,282.9,109.62,173.28,61.25,282.9
+2025/05,Sudeste,MG,Acessórios,Mouse Wireless,Representante,Carla Mendes,1,2,173.87,83.16,90.71,52.17,173.87
+2025/05,Sudeste,MG,Acessórios,Teclado Mecânico,Representante,Ana Souza,1,3,909.32,451.53,457.79,50.34,909.32
+2025/05,Sudeste,MG,Acessórios,Webcam Full HD,Loja Física,Ana Souza,1,2,397.86,176.42,221.44,55.66,397.86
+2025/05,Sudeste,MG,Informática,Monitor 24,Marketplace,Fernanda Rocha,1,6,5917.5,3545.58,2371.92,40.08,5917.5
+2025/05,Sudeste,MG,Móveis,Mesa Office,Marketplace,Bruno Lima,1,3,2287.7,1287.03,1000.67,43.74,2287.7
+2025/05,Sudeste,MG,Móveis,Mesa Office,Representante,Carla Mendes,1,6,4755.52,2425.14,2330.38,49.0,4755.52
+2025/05,Sudeste,MG,Telefonia,Smartphone X,E-commerce,Ana Souza,1,4,10572.0,8001.64,2570.36,24.31,10572.0
+2025/05,Sudeste,RJ,Acessórios,Webcam Full HD,E-commerce,Diego Alves,1,3,627.32,282.87,344.45,54.91,627.32
+2025/05,Sudeste,RJ,Acessórios,Webcam Full HD,Loja Física,Carla Mendes,1,8,1705.52,769.2,936.32,54.9,1705.52
+2025/05,Sudeste,RJ,Móveis,Mesa Office,Marketplace,Carla Mendes,1,1,842.82,424.02,418.8,49.69,842.82
+2025/05,Sudeste,RJ,Telefonia,Carregador USB-C,Marketplace,Carla Mendes,1,3,343.62,130.02,213.6,62.16,343.62
+2025/05,Sudeste,SP,Acessórios,Headset Gamer,E-commerce,Bruno Lima,1,6,1451.16,592.68,858.48,59.16,1451.16
+2025/05,Sudeste,SP,Acessórios,Webcam Full HD,E-commerce,Fernanda Rocha,1,1,207.16,95.75,111.41,53.78,207.16
+2025/05,Sudeste,SP,Acessórios,Webcam Full HD,Marketplace,Diego Alves,1,6,1155.28,583.62,571.66,49.48,1155.28
+2025/05,Sudeste,SP,Acessórios,Webcam Full HD,Representante,Diego Alves,1,2,430.24,189.08,241.16,56.05,430.24
+2025/05,Sudeste,SP,Informática,Monitor 24,Representante,Bruno Lima,1,5,4326.3,2852.5,1473.8,34.07,4326.3
+2025/05,Sudeste,SP,Informática,Notebook Pro 14,E-commerce,Carla Mendes,1,1,4210.11,3321.22,888.89,21.11,4210.11
+2025/05,Sudeste,SP,Informática,Notebook Pro 14,Representante,Carla Mendes,1,4,16628.84,12829.52,3799.32,22.85,16628.84
+2025/05,Sudeste,SP,Móveis,Cadeira Ergonômica,Loja Física,Carla Mendes,2,6,8212.8,5277.33,2935.4700000000003,35.74,4106.4
+2025/05,Sudeste,SP,Móveis,Cadeira Ergonômica,Marketplace,Carla Mendes,1,4,5196.46,3758.92,1437.54,27.66,5196.46
+2025/05,Sudeste,SP,Telefonia,Smartphone X,Representante,Carla Mendes,1,1,2651.51,1827.84,823.67,31.06,2651.51
+2025/05,Sul,PR,Acessórios,Headset Gamer,E-commerce,Diego Alves,1,1,242.99,101.82,141.17,58.1,242.99
+2025/05,Sul,PR,Acessórios,Headset Gamer,Representante,Diego Alves,1,3,746.96,335.52,411.44,55.08,746.96
+2025/05,Sul,PR,Acessórios,Headset Gamer,ecommerce,Bruno Lima,1,10,2581.7,1151.2,1430.5,55.41,2581.7
+2025/05,Sul,PR,Acessórios,Mouse Wireless,Representante,Bruno Lima,1,2,174.32,82.16,92.16,52.87,174.32
+2025/05,Sul,PR,Móveis,Mesa Office,E-commerce,Fernanda Rocha,1,5,3742.35,2008.35,1734.0,46.33,3742.35
+2025/05,Sul,PR,Telefonia,Carregador USB-C,Representante,Carla Mendes,1,3,331.62,116.58,215.04,64.85,331.62
+2025/05,Sul,PR,Telefonia,Smartphone X,Representante,Fernanda Rocha,1,1,2945.44,1895.74,1049.7,35.64,2945.44
+2025/05,Sul,RS,Acessórios,Mouse Wireless,Marketplace,Diego Alves,1,3,263.63,118.68,144.95,54.98,263.63
+2025/05,Sul,RS,Acessórios,Teclado Mecânico,E-commerce,Ana Souza,1,6,2084.88,908.04,1176.84,56.45,2084.88
+2025/05,Sul,RS,Acessórios,Webcam Full HD,E-commerce,Bruno Lima,1,5,1175.0,449.4,725.6,61.75,1175.0
+2025/05,Sul,RS,Acessórios,Webcam Full HD,Marketplace,Bruno Lima,1,4,697.69,360.16,337.53,48.38,697.69
+2025/05,Sul,RS,Informática,Monitor 24,E-commerce,Ana Souza,1,3,2422.74,1982.19,440.55,18.18,2422.74
+2025/05,Sul,RS,Informática,Monitor 24,Loja Física,Bruno Lima,1,5,4760.05,3312.3,1447.75,30.41,4760.05
+2025/05,Sul,RS,Informática,Notebook Pro 14,E-commerce,Diego Alves,1,1,4103.88,2843.72,1260.16,30.71,4103.88
+2025/05,Sul,RS,Informática,Notebook Pro 14,Loja Física,Carla Mendes,1,2,8310.5,6568.32,1742.18,20.96,8310.5
+2025/05,Sul,RS,Móveis,Cadeira Ergonômica,Marketplace,Ana Souza,1,1,1481.52,834.95,646.57,43.64,1481.52
+2025/05,Sul,RS,Telefonia,Smartphone X,Loja Física,Ana Souza,1,6,17791.5,12443.22,5348.28,30.06,17791.5
+2025/06,Centro-Oeste,GO,Acessórios,Headset Gamer,Representante,Diego Alves,1,1,229.6,112.98,116.62,50.79,229.6
+2025/06,Centro-Oeste,GO,Informática,Monitor 24,Marketplace,Carla Mendes,1,1,898.22,605.23,292.99,32.62,898.22
+2025/06,Centro-Oeste,GO,Informática,Notebook Pro 14,E-commerce,Bruno Lima,1,1,3872.56,3023.58,848.98,21.92,3872.56
+2025/06,Centro-Oeste,GO,Móveis,Mesa Office,Representante,Bruno Lima,1,2,1722.7,805.5,917.2,53.24,1722.7
+2025/06,Centro-Oeste,GO,Telefonia,Carregador USB-C,Representante,Carla Mendes,1,2,216.19,91.28,124.91,57.78,216.19
+2025/06,Centro-Oeste,GO,Telefonia,Smartphone X,ecommerce,Bruno Lima,1,6,14637.43,12897.0,1740.43,11.89,14637.43
+2025/06,Nordeste,BA,Acessórios,Mouse Wireless,Marketplace,Fernanda Rocha,1,6,482.11,218.76,263.35,54.62,482.11
+2025/06,Nordeste,BA,Acessórios,Mouse Wireless,Representante,Ana Souza,1,4,388.84,151.32,237.52,61.08,388.84
+2025/06,Nordeste,BA,Acessórios,Teclado Mecânico,Marketplace,Diego Alves,1,2,568.76,317.5,251.26,44.18,568.76
+2025/06,Nordeste,BA,Acessórios,Webcam Full HD,E-commerce,Carla Mendes,1,2,386.63,181.6,205.03,53.03,386.63
+2025/06,Nordeste,BA,Acessórios,Webcam Full HD,Marketplace,Ana Souza,1,2,403.36,178.16,225.2,55.83,403.36
+2025/06,Nordeste,BA,Acessórios,Webcam Full HD,Representante,Ana Souza,1,3,574.8,270.27,304.53,52.98,574.8
+2025/06,Nordeste,BA,Móveis,Cadeira Ergonômica,Marketplace,Ana Souza,1,4,4270.64,3715.88,554.76,12.99,4270.64
+2025/06,Nordeste,BA,Móveis,Mesa Office,Marketplace,Ana Souza,1,3,2253.57,1206.27,1047.3,46.47,2253.57
+2025/06,Nordeste,BA,Móveis,Mesa Office,Representante,Bruno Lima,1,5,3526.65,2221.0,1305.65,37.02,3526.65
+2025/06,Nordeste,BA,Telefonia,Smartphone X,Loja Física,Bruno Lima,1,1,2550.7,1958.4,592.3,23.22,2550.7
+2025/06,Nordeste,PE,Acessórios,Headset Gamer,Representante,,1,2,464.27,204.8,259.47,55.89,464.27
+2025/06,Nordeste,PE,Acessórios,Teclado Mecânico,E-commerce,Fernanda Rocha,1,3,850.66,445.44,405.22,47.64,850.66
+2025/06,Nordeste,PE,Acessórios,Webcam Full HD,E-commerce,Ana Souza,1,2,393.78,182.1,211.68,53.76,393.78
+2025/06,Nordeste,PE,Acessórios,Webcam Full HD,Marketplace,Diego Alves,1,6,1397.22,586.86,810.36,58.0,1397.22
+2025/06,Nordeste,PE,Informática,Monitor 24,Loja Física,Fernanda Rocha,1,2,1514.49,1262.08,252.41,16.67,1514.49
+2025/06,Nordeste,PE,Informática,Monitor 24,Marketplace,Diego Alves,1,1,871.19,655.97,215.22,24.7,871.19
+2025/06,Nordeste,PE,Informática,Monitor 24,Representante,Bruno Lima,1,8,7604.08,5252.48,2351.6,30.93,7604.08
+2025/06,Nordeste,PE,Móveis,Cadeira Ergonômica,Loja Física,Ana Souza,1,1,1147.27,933.93,213.34,18.6,1147.27
+2025/06,Nordeste,PE,Móveis,Cadeira Ergonômica,Marketplace,Carla Mendes,1,4,5111.96,3377.8,1734.16,33.92,5111.96
+2025/06,Nordeste,PE,Móveis,Mesa Office,Loja Física,Ana Souza,1,5,3723.3,2256.95,1466.35,39.38,3723.3
+2025/06,Norte,AM,Acessórios,Headset Gamer,Representante,Carla Mendes,1,2,456.08,198.12,257.96,56.56,456.08
+2025/06,Norte,AM,Acessórios,Mouse Wireless,E-commerce,Bruno Lima,1,2,187.06,83.32,103.74,55.46,187.06
+2025/06,Norte,AM,Acessórios,Mouse Wireless,Representante,Carla Mendes,1,3,278.73,113.34,165.39,59.34,278.73
+2025/06,Norte,AM,Telefonia,Carregador USB-C,E-commerce,Fernanda Rocha,1,2,213.28,82.82,130.46,61.17,213.28
+2025/06,Sudeste,MG,Acessórios,Headset Gamer,Loja Física,Diego Alves,1,2,433.37,217.44,215.93,49.83,433.37
+2025/06,Sudeste,MG,Acessórios,Mouse Wireless,Representante,Bruno Lima,1,3,261.21,105.9,155.31,59.46,261.21
+2025/06,Sudeste,MG,Acessórios,Teclado Mecânico,Marketplace,Fernanda Rocha,1,3,931.07,425.1,505.97,54.34,931.07
+2025/06,Sudeste,MG,Acessórios,Webcam Full HD,Loja Física,Ana Souza,1,2,370.79,176.56,194.23,52.38,370.79
+2025/06,Sudeste,MG,Informática,Notebook Pro 14,Marketplace,Diego Alves,1,3,14020.86,10038.84,3982.02,28.4,14020.86
+2025/06,Sudeste,MG,Telefonia,Smartphone X,Loja Física,Bruno Lima,1,2,5606.54,4298.54,1308.0,23.33,5606.54
+2025/06,Sudeste,MG,Telefonia,Smartphone X,Marketplace,Carla Mendes,1,3,9068.07,6316.29,2751.78,30.35,9068.07
+2025/06,Sudeste,MG,Telefonia,Smartphone X,Representante,Ana Souza,1,3,8398.87,5647.17,2751.7,32.76,8398.87
+2025/06,Sudeste,MG,Telefonia,Smartphone X,Representante,Bruno Lima,1,1,2815.88,2131.87,684.01,24.29,2815.88
+2025/06,Sudeste,MG,informatica,Carregador USB-C,E-commerce,Diego Alves,1,1,119.39,43.63,75.76,63.46,119.39
+2025/06,Sudeste,RJ,Acessórios,Headset Gamer,Loja Física,Diego Alves,1,2,450.32,223.5,226.82,50.37,450.32
+2025/06,Sudeste,RJ,Acessórios,Headset Gamer,Representante,Ana Souza,1,3,684.51,299.7,384.81,56.22,684.51
+2025/06,Sudeste,RJ,Acessórios,Mouse Wireless,E-commerce,Bruno Lima,1,2,185.1,81.28,103.82,56.09,185.1
+2025/06,Sudeste,RJ,Acessórios,Mouse Wireless,Loja Física,Fernanda Rocha,1,1,91.84,38.19,53.65,58.42,91.84
+2025/06,Sudeste,RJ,Acessórios,Teclado Mecânico,Representante,Fernanda Rocha,1,1,319.79,151.34,168.45,52.68,319.79
+2025/06,Sudeste,RJ,Acessórios,Webcam Full HD,E-commerce,Fernanda Rocha,1,1,203.47,97.41,106.06,52.13,203.47
+2025/06,Sudeste,RJ,Informática,Monitor 24,Loja Física,Diego Alves,1,2,1645.78,1317.14,328.64,19.97,1645.78
+2025/06,Sudeste,RJ,Informática,Notebook Pro 14,Marketplace,Fernanda Rocha,1,1,3807.67,2979.63,828.04,21.75,3807.67
+2025/06,Sudeste,RJ,Móveis,Mesa Office,Loja Física,Fernanda Rocha,1,2,1458.51,794.88,663.63,45.5,1458.51
+2025/06,Sudeste,RJ,Telefonia,Carregador USB-C,E-commerce,Carla Mendes,1,2,244.14,88.0,156.14,63.96,244.14
+2025/06,Sudeste,RJ,Telefonia,Carregador USB-C,E-commerce,Fernanda Rocha,1,5,537.09,204.7,332.39,61.89,537.09
+2025/06,Sudeste,SP,Acessórios,Mouse Wireless,Loja Física,Bruno Lima,1,1,101.36,38.15,63.21,62.36,101.36
+2025/06,Sudeste,SP,Acessórios,Teclado Mecânico,E-commerce,Ana Souza,1,4,1079.56,585.28,494.28,45.79,1079.56
+2025/06,Sudeste,SP,Acessórios,Teclado Mecânico,E-commerce,Bruno Lima,1,2,644.57,305.56,339.01,52.59,644.57
+2025/06,Sudeste,SP,Acessórios,Webcam Full HD,Representante,Ana Souza,1,3,581.88,292.59,289.29,49.72,581.88
 2025/06,Sudeste,SP,Informática,Notebook Pro 14,E-commerce,Ana Souza,1,1,3801.48,3258.17,543.31,14.29,3801.48
+2025/06,Sudeste,SP,Informática,Notebook Pro 14,Marketplace,Diego Alves,1,1,3730.8,3064.92,665.88,17.85,3730.8
+2025/06,Sudeste,SP,Móveis,Mesa Office,Marketplace,Bruno Lima,1,2,1591.54,816.0,775.54,48.73,1591.54
+2025/06,Sudeste,SP,Telefonia,Carregador USB-C,Loja Física,Ana Souza,1,4,386.95,181.56,205.39,53.08,386.95
+2025/06,Sudeste,SP,Telefonia,Carregador USB-C,Loja Física,Fernanda Rocha,1,6,690.3,262.86,427.44,61.92,690.3
+2025/06,Sudeste,SP,Telefonia,Carregador USB-C,Representante,Carla Mendes,1,2,223.58,86.94,136.64,61.11,223.58
+2025/06,Sudeste,SP,Telefonia,Smartphone X,E-commerce,Carla Mendes,1,5,13376.83,9985.3,3391.53,25.35,13376.83
+2025/06,Sudeste,SP,Telefonia,Smartphone X,Loja Física,Carla Mendes,1,3,7606.01,5620.17,1985.84,26.11,7606.01
+2025/06,Sudeste,SP,Telefonia,Smartphone X,Representante,Carla Mendes,1,2,5328.54,4327.4,1001.14,18.79,5328.54
+2025/06,Sul,PR,Informática,Monitor 24,Representante,Carla Mendes,1,4,3692.52,2450.96,1241.56,33.62,3692.52
+2025/06,Sul,PR,Telefonia,Smartphone X,E-commerce,Carla Mendes,1,4,12255.68,8124.08,4131.6,33.71,12255.68
+2025/06,Sul,RS,Acessórios,Headset Gamer,Marketplace,Fernanda Rocha,1,2,518.38,226.12,292.26,56.38,518.38
+2025/06,Sul,RS,Acessórios,Teclado Mecânico,Loja Física,Ana Souza,1,3,836.69,473.97,362.72,43.35,836.69
+2025/06,Sul,RS,Acessórios,Teclado Mecânico,Representante,Diego Alves,1,6,1892.55,817.14,1075.41,56.82,1892.55
+2025/06,Sul,RS,Acessórios,Webcam Full HD,Representante,Carla Mendes,1,1,193.52,82.86,110.66,57.18,193.52
+2025/06,Sul,RS,Móveis,Mesa Office,Loja Física,Bruno Lima,1,2,1621.61,831.62,789.99,48.72,1621.61
+2025/06,Sul,RS,Telefonia,Carregador USB-C,Representante,Fernanda Rocha,1,5,545.01,228.45,316.56,58.08,545.01
+2025/06,Sul,RS,Telefonia,Smartphone X,Marketplace,Bruno Lima,1,2,5676.74,3792.8,1883.94,33.19,5676.74
+2025/07,Centro-Oeste,GO,Acessórios,Teclado Mecânico,E-commerce,Fernanda Rocha,1,2,551.12,303.02,248.1,45.02,551.12
+2025/07,Centro-Oeste,GO,Informática,Notebook Pro 14,Loja Física,Ana Souza,1,2,7602.98,6492.2,1110.78,14.61,7602.98
+2025/07,Centro-Oeste,GO,Informática,Notebook Pro 14,Marketplace,Fernanda Rocha,1,1,3741.15,2861.94,879.21,23.5,3741.15
+2025/07,Centro-Oeste,GO,Móveis,Cadeira Ergonômica,Marketplace,Ana Souza,1,1,1213.81,808.43,405.38,33.4,1213.81
+2025/07,Centro-Oeste,GO,Telefonia,Carregador USB-C,Representante,Carla Mendes,1,3,323.76,134.19,189.57,58.55,323.76
+2025/07,Centro-Oeste,GO,Telefonia,Smartphone X,Loja Física,Carla Mendes,1,2,5986.0,3730.82,2255.18,37.67,5986.0
+2025/07,Nordeste,BA,Acessórios,Teclado Mecânico,Representante,Ana Souza,1,1,337.9,149.88,188.02,55.64,337.9
+2025/07,Nordeste,BA,Móveis,Mesa Office,Marketplace,Ana Souza,1,1,827.36,402.94,424.42,51.3,827.36
+2025/07,Nordeste,BA,Móveis,Mesa Office,Representante,Carla Mendes,1,5,3288.82,2143.5,1145.32,34.82,3288.82
+2025/07,Nordeste,BA,Telefonia,Carregador USB-C,Marketplace,Diego Alves,1,3,289.83,129.3,160.53,55.39,289.83
+2025/07,Nordeste,PE,Informática,Monitor 24,Representante,Bruno Lima,1,5,4589.2,2950.1,1639.1,35.72,4589.2
+2025/07,Nordeste,PE,Informática,Monitor 24,Representante,Fernanda Rocha,1,5,4504.0,2889.05,1614.95,35.86,4504.0
+2025/07,Nordeste,PE,Móveis,Cadeira Ergonômica,Loja Física,Ana Souza,1,1,1375.69,828.69,547.0,39.76,1375.69
+2025/07,Nordeste,PE,Móveis,Cadeira Ergonômica,Marketplace,Ana Souza,1,1,1347.91,937.17,410.74,30.47,1347.91
+2025/07,Nordeste,PE,Móveis,Mesa Office,E-commerce,Fernanda Rocha,1,1,827.4,417.69,409.71,49.52,827.4
+2025/07,Nordeste,PE,Móveis,Mesa Office,Marketplace,Fernanda Rocha,1,6,5101.38,2727.66,2373.72,46.53,5101.38
+2025/07,Nordeste,PE,Telefonia,Carregador USB-C,Representante,Diego Alves,1,3,354.51,132.15,222.36,62.72,354.51
+2025/07,Nordeste,PE,Telefonia,Smartphone X,Representante,Carla Mendes,1,4,10018.24,7469.44,2548.8,25.44,10018.24
+2025/07,Norte,AM,Acessórios,Headset Gamer,Loja Física,Ana Souza,1,8,1709.21,821.44,887.77,51.94,1709.21
+2025/07,Norte,AM,Acessórios,Mouse Wireless,Marketplace,Diego Alves,1,2,172.58,80.4,92.18,53.41,172.58
+2025/07,Norte,AM,Acessórios,Teclado Mecânico,E-commerce,Fernanda Rocha,1,1,330.45,153.83,176.62,53.45,330.45
+2025/07,Norte,AM,Móveis,Mesa Office,Loja Física,Bruno Lima,1,5,3676.25,2176.35,1499.9,40.8,3676.25
+2025/07,Norte,AM,Telefonia,Smartphone X,E-commerce,Diego Alves,1,5,13220.2,9401.5,3818.7,28.89,13220.2
+2025/07,Sudeste,MG,Acessórios,Teclado Mecânico,Loja Física,Fernanda Rocha,2,3,973.59,456.71000000000004,516.88,53.09,486.8
+2025/07,Sudeste,MG,Acessórios,Webcam Full HD,Representante,Bruno Lima,1,4,832.92,375.84,457.08,54.88,832.92
+2025/07,Sudeste,MG,Informática,Notebook Pro 14,E-commerce,Fernanda Rocha,1,6,24410.75,17160.42,7250.33,29.7,24410.75
+2025/07,Sudeste,MG,Móveis,Cadeira Ergonômica,E-commerce,Diego Alves,1,6,7439.94,4896.6,2543.34,34.18,7439.94
+2025/07,Sudeste,MG,Móveis,Cadeira Ergonômica,Marketplace,Diego Alves,1,1,1273.5,926.29,347.21,27.26,1273.5
+2025/07,Sudeste,MG,Telefonia,Smartphone X,E-commerce,Bruno Lima,1,1,2840.26,2006.51,833.75,29.35,2840.26
+2025/07,Sudeste,MG,Telefonia,Smartphone X,Loja Física,Carla Mendes,1,2,5944.88,3656.66,2288.22,38.49,5944.88
+2025/07,Sudeste,RJ,Acessórios,Headset Gamer,E-commerce,Fernanda Rocha,1,3,727.01,322.86,404.15,55.59,727.01
+2025/07,Sudeste,RJ,Acessórios,Teclado Mecânico,Representante,Ana Souza,2,4,1159.88,594.23,565.65,48.77,579.94
+2025/07,Sudeste,RJ,Informática,Notebook Pro 14,Loja Física,Bruno Lima,1,3,13288.35,8737.17,4551.18,34.25,13288.35
+2025/07,Sudeste,RJ,Móveis,Mesa Office,E-commerce,Diego Alves,1,4,3211.53,1626.64,1584.89,49.35,3211.53
+2025/07,Sudeste,SP,Acessórios,Mouse Wireless,E-commerce,Fernanda Rocha,1,3,251.28,113.01,138.27,55.03,251.28
+2025/07,Sudeste,SP,Acessórios,Mouse Wireless,Representante,Carla Mendes,1,3,280.21,109.86,170.35,60.79,280.21
+2025/07,Sudeste,SP,Acessórios,Teclado Mecânico,Marketplace,Carla Mendes,1,5,1593.3,769.6,823.7,51.7,1593.3
+2025/07,Sudeste,SP,Acessórios,Webcam Full HD,Marketplace,Carla Mendes,1,2,328.75,174.88,153.87,46.8,328.75
+2025/07,Sudeste,SP,Informática,Monitor 24,Representante,Fernanda Rocha,1,2,1755.3,1197.74,557.56,31.76,1755.3
+2025/07,Sudeste,SP,Informática,Notebook Pro 14,Representante,Bruno Lima,1,2,8458.24,5767.74,2690.5,31.81,8458.24
+2025/07,Sudeste,SP,Móveis,Mesa Office,E-commerce,Carla Mendes,2,10,8246.28,4404.76,3841.5200000000004,46.58,4123.14
+2025/07,Sudeste,SP,Móveis,Mesa Office,Marketplace,Ana Souza,1,1,706.84,463.83,243.01,34.38,706.84
+2025/07,Sudeste,SP,Telefonia,Carregador USB-C,Representante,Bruno Lima,1,4,439.96,182.84,257.12,58.44,439.96
+2025/07,Sudeste,SP,informatica,Monitor 24,Loja Física,Diego Alves,1,6,4615.27,3731.34,883.93,19.15,4615.27
+2025/07,Sudeste ,BA,Informática,Notebook Pro 14,E-commerce,Carla Mendes,1,1,4506.91,3143.58,1363.33,30.25,4506.91
+2025/07,Sul,PR,Acessórios,Teclado Mecânico,Representante,Diego Alves,1,1,296.4,158.21,138.19,46.62,296.4
+2025/07,Sul,PR,Acessórios,Webcam Full HD,Marketplace,Ana Souza,1,3,556.36,288.63,267.73,48.12,556.36
+2025/07,Sul,PR,Móveis,Cadeira Ergonômica,Marketplace,Ana Souza,1,4,4514.59,3482.32,1032.27,22.87,4514.59
+2025/07,Sul,RS,Acessórios,Mouse Wireless,Loja Física,Bruno Lima,1,4,387.1,141.0,246.1,63.58,387.1
+2025/07,Sul,RS,Acessórios,Mouse Wireless,Representante,Diego Alves,1,1,93.63,41.33,52.3,55.86,93.63
+2025/07,Sul,RS,Informática,Monitor 24,Representante,Bruno Lima,1,5,4264.4,3101.2,1163.2,27.28,4264.4
+2025/07,Sul,RS,Telefonia,Carregador USB-C,Marketplace,Ana Souza,1,3,297.24,131.19,166.05,55.86,297.24
+2025/07,Sul,RS,Telefonia,Carregador USB-C,Representante,Fernanda Rocha,1,4,375.69,178.2,197.49,52.57,375.69
+2025/07,Sul,RS,Telefonia,Smartphone X,Marketplace,Diego Alves,1,3,8618.49,6313.71,2304.78,26.74,8618.49
+2025/08,Centro-Oeste,GO,Acessórios,Teclado Mecânico,Loja Física,Diego Alves,1,1,294.24,145.43,148.81,50.57,294.24
+2025/08,Centro-Oeste,GO,Acessórios,Webcam Full HD,E-commerce,Ana Souza,1,5,1096.78,456.15,640.63,58.41,1096.78
+2025/08,Centro-Oeste,GO,Informática,Notebook Pro 14,E-commerce,Carla Mendes,1,4,18500.16,11792.12,6708.04,36.26,18500.16
+2025/08,Centro-Oeste,GO,Informática,Notebook Pro 14,Representante,Ana Souza,1,2,7921.58,6449.16,1472.42,18.59,7921.58
+2025/08,Centro-Oeste,GO,Telefonia,Carregador USB-C,Marketplace,Carla Mendes,1,6,650.5,258.06,392.44,60.33,650.5
+2025/08,Centro-Oeste,GO,informatica,Notebook Pro 14,E-commerce,Ana Souza,1,5,16187.57,15475.5,712.07,4.4,16187.57
+2025/08,Nordeste,,Móveis,Cadeira Ergonômica,Representante,Ana Souza,1,5,6370.1,4640.5,1729.6,27.15,6370.1
+2025/08,Nordeste,BA,Acessórios,Mouse Wireless,Representante,Bruno Lima,1,2,198.58,78.78,119.8,60.33,198.58
+2025/08,Nordeste,BA,Acessórios,Teclado Mecânico,E-commerce,Ana Souza,1,1,317.04,136.72,180.32,56.88,317.04
+2025/08,Nordeste,BA,Móveis,Mesa Office,E-commerce,Fernanda Rocha,1,1,855.88,413.21,442.67,51.72,855.88
+2025/08,Nordeste,BA,Telefonia,Carregador USB-C,E-commerce,Bruno Lima,1,3,311.61,116.82,194.79,62.51,311.61
+2025/08,Nordeste,BA,Telefonia,Smartphone X,Loja Física,Bruno Lima,1,1,2782.19,2168.02,614.17,22.08,2782.19
+2025/08,Nordeste,PE,Acessórios,Webcam Full HD,Marketplace,Carla Mendes,1,2,399.26,173.4,225.86,56.57,399.26
+2025/08,Nordeste,PE,Informática,Notebook Pro 14,E-commerce,Fernanda Rocha,1,3,13074.57,8437.92,4636.65,35.46,13074.57
+2025/08,Nordeste,PE,Informática,Notebook Pro 14,Loja Física,Carla Mendes,1,2,7496.56,6121.78,1374.78,18.34,7496.56
+2025/08,Nordeste,PE,Móveis,Cadeira Ergonômica,E-commerce,Bruno Lima,1,4,4867.94,3655.96,1211.98,24.9,4867.94
+2025/08,Nordeste,PE,Móveis,Mesa Office,E-commerce,Diego Alves,1,1,714.51,418.46,296.05,41.43,714.51
+2025/08,Norte,AM,Acessórios,Headset Gamer,Marketplace,Bruno Lima,1,1,230.69,104.84,125.85,54.55,230.69
+2025/08,Norte,AM,Acessórios,Webcam Full HD,Loja Física,Carla Mendes,1,4,770.96,342.68,428.28,55.55,770.96
+2025/08,Norte,AM,Informática,Monitor 24,Loja Física,Diego Alves,1,1,934.01,644.89,289.12,30.95,934.01
+2025/08,Norte,AM,Informática,Notebook Pro 14,E-commerce,Ana Souza,1,1,4406.11,2995.13,1410.98,32.02,4406.11
+2025/08,Norte,AM,Telefonia,Carregador USB-C,Marketplace,Ana Souza,1,4,467.62,173.68,293.94,62.86,467.62
+2025/08,Sudeste,,Informática,Monitor 24,Marketplace,Fernanda Rocha,1,1,765.68,628.87,136.81,17.87,765.68
+2025/08,Sudeste,MG,Acessórios,Headset Gamer,Marketplace,Carla Mendes,1,10,2075.06,1029.2,1045.86,50.4,2075.06
+2025/08,Sudeste,MG,Acessórios,Headset Gamer,Marketplace,Fernanda Rocha,1,4,920.55,452.08,468.47,50.89,920.55
+2025/08,Sudeste,MG,Acessórios,Mouse Wireless,Marketplace,Diego Alves,1,3,255.41,113.73,141.68,55.47,255.41
+2025/08,Sudeste,MG,Informática,Monitor 24,Loja Física,Carla Mendes,1,4,3515.94,2587.32,928.62,26.41,3515.94
+2025/08,Sudeste,MG,Informática,Monitor 24,Loja Física,Fernanda Rocha,1,1,836.91,618.82,218.09,26.06,836.91
+2025/08,Sudeste,MG,Informática,Notebook Pro 14,Representante,Ana Souza,1,1,3961.09,2984.61,976.48,24.65,3961.09
+2025/08,Sudeste,MG,Móveis,Cadeira Ergonômica,Representante,Diego Alves,1,1,1295.74,912.91,382.83,29.55,1295.74
+2025/08,Sudeste,MG,Móveis,Mesa Office,E-commerce,Fernanda Rocha,1,3,2557.29,1217.91,1339.38,52.37,2557.29
+2025/08,Sudeste,MG,Telefonia,Carregador USB-C,Loja Física,Bruno Lima,1,5,538.87,209.5,329.37,61.12,538.87
+2025/08,Sudeste,MG,Telefonia,Smartphone X,E-commerce,Bruno Lima,1,3,8911.98,5529.33,3382.65,37.96,8911.98
+2025/08,Sudeste,MG,Telefonia,Smartphone X,Representante,Bruno Lima,1,6,17189.08,11138.82,6050.26,35.2,17189.08
+2025/08,Sudeste,RJ,Acessórios,Headset Gamer,Loja Física,Bruno Lima,1,4,955.19,420.48,534.71,55.98,955.19
+2025/08,Sudeste,RJ,Acessórios,Headset Gamer,Marketplace,Fernanda Rocha,1,2,488.06,194.9,293.16,60.07,488.06
+2025/08,Sudeste,RJ,Acessórios,Headset Gamer,Representante,Bruno Lima,1,8,1607.45,909.68,697.77,43.41,1607.45
+2025/08,Sudeste,RJ,Informática,Notebook Pro 14,ecommerce,Carla Mendes,1,3,11257.38,9764.34,1493.04,13.26,11257.38
+2025/08,Sudeste,RJ,Móveis,Cadeira Ergonômica,Loja Física,Ana Souza,1,2,2913.94,1709.56,1204.38,41.33,2913.94
+2025/08,Sudeste,RJ,Móveis,Mesa Office,E-commerce,Bruno Lima,1,6,3958.36,2583.6,1374.76,34.73,3958.36
+2025/08,Sudeste,SP,Acessórios,Headset Gamer,E-commerce,Diego Alves,1,4,912.52,440.48,472.04,51.73,912.52
+2025/08,Sudeste,SP,Acessórios,Mouse Wireless,Loja Física,Carla Mendes,1,1,79.52,40.94,38.58,48.52,79.52
+2025/08,Sudeste,SP,Acessórios,Mouse Wireless,Marketplace,Carla Mendes,1,3,287.02,114.54,172.48,60.09,287.02
+2025/08,Sudeste,SP,Acessórios,Mouse Wireless,ecommerce,Ana Souza,1,3,273.33,108.33,165.0,60.37,273.33
+2025/08,Sudeste,SP,Acessórios,Teclado Mecânico,E-commerce,Bruno Lima,1,3,997.44,423.15,574.29,57.58,997.44
+2025/08,Sudeste,SP,Acessórios,Webcam Full HD,Representante,Fernanda Rocha,1,4,927.64,338.92,588.72,63.46,927.64
+2025/08,Sudeste,SP,Informática,Monitor 24,E-commerce,Bruno Lima,2,3,2502.58,1944.6799999999998,557.9,22.29,1251.29
+2025/08,Sudeste,SP,Informática,Monitor 24,Marketplace,Fernanda Rocha,1,3,2552.79,1696.53,856.26,33.54,2552.79
+2025/08,Sudeste,SP,Móveis,Cadeira Ergonômica,E-commerce,Fernanda Rocha,1,1,1387.9,897.64,490.26,35.32,1387.9
+2025/08,Sudeste,SP,Móveis,Cadeira Ergonômica,Loja Física,Ana Souza,1,8,11274.04,7303.6,3970.44,35.22,11274.04
+2025/08,Sudeste,SP,Móveis,Mesa Office,Loja Física,Diego Alves,1,5,3855.05,2001.8,1853.25,48.07,3855.05
+2025/08,Sudeste,SP,Telefonia,Carregador USB-C,E-commerce,Bruno Lima,1,5,521.05,225.4,295.65,56.74,521.05
+2025/08,Sudeste,SP,Telefonia,Carregador USB-C,Loja Física,Ana Souza,1,5,485.31,194.5,290.81,59.92,485.31
+2025/08,Sudeste,SP,Telefonia,Carregador USB-C,Representante,Carla Mendes,1,2,245.42,86.54,158.88,64.74,245.42
+2025/08,Sudeste,SP,Telefonia,Smartphone X,E-commerce,Ana Souza,1,6,17361.36,11146.56,6214.8,35.8,17361.36
+2025/08,Sudeste,SP,Telefonia,Smartphone X,Marketplace,Diego Alves,1,8,20259.2,17099.44,3159.76,15.6,20259.2
+2025/08,Sudeste ,GO,Acessórios,Headset Gamer,Loja Física,Fernanda Rocha,1,3,727.21,301.47,425.74,58.54,727.21
+2025/08,Sul,PR,Acessórios,Webcam Full HD,Marketplace,Diego Alves,2,10,2093.48,934.3399999999999,1159.14,55.37,1046.74
+2025/08,Sul,PR,Móveis,Mesa Office,E-commerce,Ana Souza,1,6,4582.37,2603.46,1978.91,43.19,4582.37
+2025/08,Sul,PR,Telefonia,Carregador USB-C,Representante,Bruno Lima,1,4,413.35,154.64,258.71,62.59,413.35
+2025/08,Sul,PR,Telefonia,Smartphone X,Marketplace,Ana Souza,1,3,6899.01,6031.26,867.75,12.58,6899.01
+2025/08,Sul,RS,Acessórios,Headset Gamer,Loja Física,Bruno Lima,1,2,428.64,228.0,200.64,46.81,428.64
+2025/08,Sul,RS,Acessórios,Mouse Wireless,Marketplace,Fernanda Rocha,1,2,167.26,78.56,88.7,53.03,167.26
+2025/08,Sul,RS,Acessórios,Webcam Full HD,Representante,Fernanda Rocha,1,3,608.68,273.51,335.17,55.07,608.68
+2025/08,Sul,RS,Informática,Monitor 24,E-commerce,Fernanda Rocha,1,5,4844.05,2855.05,1989.0,41.06,4844.05
+2025/08,Sul,RS,Telefonia,Carregador USB-C,E-commerce,Bruno Lima,1,3,330.09,131.64,198.45,60.12,330.09
+2025/08,Sul,RS,Telefonia,Carregador USB-C,Loja Física,Bruno Lima,1,4,402.96,181.96,221.0,54.84,402.96
+2025/08,Sul,RS,Telefonia,Smartphone X,Loja Física,Fernanda Rocha,1,2,5192.8,3793.36,1399.44,26.95,5192.8
+2025/09,Centro-Oeste,GO,Acessórios,Mouse Wireless,Representante,Ana Souza,1,6,606.84,234.84,372.0,61.3,606.84
+2025/09,Centro-Oeste,GO,Acessórios,Teclado Mecânico,Representante,Carla Mendes,1,5,1478.35,722.85,755.5,51.1,1478.35
+2025/09,Centro-Oeste,GO,Acessórios,Webcam Full HD,Marketplace,Diego Alves,1,4,844.63,376.16,468.47,55.46,844.63
+2025/09,Centro-Oeste,GO,Móveis,Cadeira Ergonômica,E-commerce,Ana Souza,1,4,4637.71,3589.08,1048.63,22.61,4637.71
+2025/09,Centro-Oeste,GO,Telefonia,Carregador USB-C,Representante,Diego Alves,1,1,115.66,40.07,75.59,65.36,115.66
+2025/09,Centro-Oeste,GO,Telefonia,Carregador USB-C,Representante,Fernanda Rocha,1,6,731.46,241.68,489.78,66.96,731.46
+2025/09,Nordeste,BA,Informática,Monitor 24,Loja Física,Carla Mendes,1,2,1445.62,1142.44,303.18,20.97,1445.62
+2025/09,Nordeste,BA,Informática,Monitor 24,Marketplace,Bruno Lima,1,4,3080.92,2568.88,512.04,16.62,3080.92
+2025/09,Nordeste,BA,Informática,Notebook Pro 14,Loja Física,Ana Souza,1,3,11698.65,8581.29,3117.36,26.65,11698.65
+2025/09,Nordeste,BA,Móveis,Cadeira Ergonômica,Loja Física,Diego Alves,1,1,1485.07,904.15,580.92,39.12,1485.07
 2025/09,Nordeste,BA,Móveis,Mesa Office,E-commerce,Carla Mendes,1,3,2045.39,1322.04,723.35,35.36,2045.39
-2025/10,Nordeste,BA,Móveis,Mesa Office,Marketplace,Carla Mendes,1,4,3267.81,1881.8,1386.01,42.41,3267.81
+2025/09,Nordeste,BA,Telefonia,Smartphone X,E-commerce,Bruno Lima,1,4,12051.32,7532.48,4518.84,37.5,12051.32
+2025/09,Nordeste,PE,Acessórios,Webcam Full HD,Loja Física,Ana Souza,1,1,183.69,83.95,99.74,54.3,183.69
+2025/09,Nordeste,PE,Telefonia,Carregador USB-C,E-commerce,Carla Mendes,1,2,208.3,91.54,116.76,56.05,208.3
+2025/09,Norte,AM,Acessórios,Mouse Wireless,Representante,,1,1,94.88,35.3,59.58,62.8,94.88
+2025/09,Norte,AM,Informática,Monitor 24,Marketplace,Diego Alves,1,2,1882.42,1271.08,611.34,32.48,1882.42
+2025/09,Norte,AM,Informática,Monitor 24,Marketplace,Fernanda Rocha,1,2,1674.56,1172.64,501.92,29.97,1674.56
+2025/09,Norte,AM,Telefonia,Smartphone X,E-commerce,Carla Mendes,1,2,5630.0,3732.76,1897.24,33.7,5630.0
+2025/09,Sudeste,MG,Acessórios,Teclado Mecânico,E-commerce,Fernanda Rocha,1,5,1598.45,785.65,812.8,50.85,1598.45
+2025/09,Sudeste,MG,Acessórios,Teclado Mecânico,Loja Física,Ana Souza,1,3,1030.69,430.59,600.1,58.22,1030.69
+2025/09,Sudeste,MG,Acessórios,Teclado Mecânico,Loja Física,Carla Mendes,1,10,3021.16,1357.5,1663.66,55.07,3021.16
+2025/09,Sudeste,MG,Informática,Monitor 24,E-commerce,Diego Alves,1,3,2432.45,1818.45,614.0,25.24,2432.45
+2025/09,Sudeste,MG,Informática,Notebook Pro 14,Representante,Diego Alves,1,1,4438.01,2945.71,1492.3,33.63,4438.01
+2025/09,Sudeste,MG,Móveis,Cadeira Ergonômica,Loja Física,Ana Souza,1,4,5100.55,3718.04,1382.51,27.11,5100.55
+2025/09,Sudeste,RJ,Acessórios,Teclado Mecânico,Marketplace,Ana Souza,1,6,1911.18,805.98,1105.2,57.83,1911.18
+2025/09,Sudeste,RJ,Acessórios,Webcam Full HD,Loja Física,Diego Alves,1,6,1305.7,578.16,727.54,55.72,1305.7
+2025/09,Sudeste,RJ,Acessórios,Webcam Full HD,Marketplace,Carla Mendes,1,4,784.12,371.08,413.04,52.68,784.12
+2025/09,Sudeste,RJ,Acessórios,Webcam Full HD,Marketplace,Fernanda Rocha,1,3,524.88,278.91,245.97,46.86,524.88
+2025/09,Sudeste,RJ,Informática,Monitor 24,E-commerce,Diego Alves,1,3,2519.74,1982.07,537.67,21.34,2519.74
+2025/09,Sudeste,RJ,Móveis,Mesa Office,Loja Física,Bruno Lima,1,4,2964.42,1841.64,1122.78,37.88,2964.42
+2025/09,Sudeste,RJ,Telefonia,Smartphone X,E-commerce,Bruno Lima,1,3,8419.79,5475.39,2944.4,34.97,8419.79
+2025/09,Sudeste,SP,Acessórios,Mouse Wireless,E-commerce,Fernanda Rocha,1,3,249.5,106.05,143.45,57.49,249.5
+2025/09,Sudeste,SP,Acessórios,Mouse Wireless,Representante,Ana Souza,1,2,173.52,72.6,100.92,58.16,173.52
+2025/09,Sudeste,SP,Acessórios,Teclado Mecânico,Loja Física,Fernanda Rocha,1,2,685.16,299.56,385.6,56.28,685.16
+2025/09,Sudeste,SP,Acessórios,Webcam Full HD,E-commerce,Fernanda Rocha,1,6,1243.8,538.08,705.72,56.74,1243.8
+2025/09,Sudeste,SP,Informática,Monitor 24,Marketplace,Ana Souza,1,1,897.33,581.16,316.17,35.23,897.33
+2025/09,Sudeste,SP,Informática,Notebook Pro 14,E-commerce,Ana Souza,2,16,70586.12,49015.42,21570.699999999997,30.56,35293.06
+2025/09,Sudeste,SP,Móveis,Cadeira Ergonômica,E-commerce,Diego Alves,1,4,5433.32,3807.48,1625.84,29.92,5433.32
+2025/09,Sudeste,SP,Móveis,Cadeira Ergonômica,Representante,Ana Souza,1,4,4945.76,3363.0,1582.76,32.0,4945.76
+2025/09,Sudeste,SP,Móveis,Mesa Office,E-commerce,Carla Mendes,1,1,738.86,453.56,285.3,38.61,738.86
+2025/09,Sudeste,SP,Móveis,Mesa Office,Marketplace,Ana Souza,1,8,6287.6,3737.04,2550.56,40.56,6287.6
+2025/09,Sudeste,SP,Telefonia,Smartphone X,Loja Física,Diego Alves,1,4,10604.76,7307.12,3297.64,31.1,10604.76
+2025/09,Sul,PR,Acessórios,Teclado Mecânico,Representante,Carla Mendes,1,2,569.72,294.94,274.78,48.23,569.72
+2025/09,Sul,PR,Telefonia,Carregador USB-C,E-commerce,Ana Souza,1,4,408.46,156.08,252.38,61.79,408.46
+2025/09,Sul,PR,Telefonia,Carregador USB-C,E-commerce,Diego Alves,1,2,231.35,92.38,138.97,60.07,231.35
+2025/09,Sul,RS,Acessórios,Headset Gamer,Marketplace,Diego Alves,1,2,402.96,219.74,183.22,45.47,402.96
+2025/09,Sul,RS,Acessórios,Mouse Wireless,Loja Física,Ana Souza,1,4,383.0,164.04,218.96,57.17,383.0
+2025/09,Sul,RS,Acessórios,Mouse Wireless,Loja Física,Diego Alves,1,2,189.96,83.54,106.42,56.02,189.96
+2025/09,Sul,RS,Acessórios,Mouse Wireless,Marketplace,Fernanda Rocha,1,6,605.64,219.96,385.68,63.68,605.64
+2025/09,Sul,RS,Informática,Monitor 24,Loja Física,Carla Mendes,1,5,4652.4,3297.6,1354.8,29.12,4652.4
+2025/10,Centro-Oeste,GO,Acessórios,Headset Gamer,E-commerce,Bruno Lima,1,3,654.92,336.0,318.92,48.7,654.92
+2025/10,Centro-Oeste,GO,Acessórios,Webcam Full HD,Marketplace,Ana Souza,1,1,199.3,89.73,109.57,54.98,199.3
+2025/10,Centro-Oeste,GO,Acessórios,Webcam Full HD,Marketplace,Fernanda Rocha,1,1,190.44,92.44,98.0,51.46,190.44
+2025/10,Centro-Oeste,GO,Informática,Monitor 24,E-commerce,Diego Alves,1,1,876.85,581.16,295.69,33.72,876.85
+2025/10,Centro-Oeste,GO,Informática,Notebook Pro 14,E-commerce,Bruno Lima,1,1,3684.54,2920.91,763.63,20.73,3684.54
+2025/10,Centro-Oeste,GO,Móveis,Cadeira Ergonômica,E-commerce,Ana Souza,1,2,2634.25,1650.58,983.67,37.34,2634.25
+2025/10,Centro-Oeste,GO,Móveis,Cadeira Ergonômica,Loja Física,Fernanda Rocha,1,1,1211.43,824.66,386.77,31.93,1211.43
+2025/10,Nordeste,BA,Acessórios,Headset Gamer,Loja Física,Carla Mendes,1,2,425.68,203.94,221.74,52.09,425.68
+2025/10,Nordeste,BA,Acessórios,Headset Gamer,Marketplace,Carla Mendes,1,2,505.0,224.76,280.24,55.49,505.0
+2025/10,Nordeste,BA,Móveis,Cadeira Ergonômica,Representante,Ana Souza,1,2,2344.14,1885.58,458.56,19.56,2344.14
+2025/10,Nordeste,BA,Móveis,Mesa Office,E-commerce,,1,2,1538.92,806.22,732.7,47.61,1538.92
+2025/10,Nordeste,BA,Móveis,Mesa Office,Loja Física,Bruno Lima,1,4,3230.29,1821.08,1409.21,43.62,3230.29
+2025/10,Nordeste,BA,Móveis,Mesa Office,Marketplace,Carla Mendes,2,5,4012.02,2291.84,1720.18,42.88,2006.01
+2025/10,Nordeste,BA,Telefonia,Smartphone X,Loja Física,Diego Alves,1,1,2795.86,2050.52,745.34,26.66,2795.86
+2025/10,Nordeste,PE,Acessórios,Headset Gamer,Loja Física,Fernanda Rocha,2,13,3177.34,1331.63,1845.71,58.09,1588.67
+2025/10,Nordeste,PE,Acessórios,Teclado Mecânico,Loja Física,Ana Souza,1,1,323.09,157.28,165.81,51.32,323.09
+2025/10,Nordeste,PE,Informática,Monitor 24,Marketplace,Bruno Lima,1,4,3415.78,2533.64,882.14,25.83,3415.78
+2025/10,Nordeste,PE,Informática,Notebook Pro 14,Marketplace,Diego Alves,1,4,17093.76,11971.24,5122.52,29.97,17093.76
+2025/10,Nordeste,PE,Móveis,Cadeira Ergonômica,E-commerce,Carla Mendes,1,6,8638.62,5501.88,3136.74,36.31,8638.62
+2025/10,Nordeste,PE,Móveis,Cadeira Ergonômica,Marketplace,Ana Souza,1,3,4339.56,2785.68,1553.88,35.81,4339.56
+2025/10,Nordeste,PE,Telefonia,Carregador USB-C,Loja Física,Carla Mendes,1,10,1094.62,405.2,689.42,62.98,1094.62
+2025/10,Nordeste,PE,Telefonia,Smartphone X,E-commerce,Carla Mendes,1,4,9677.99,7501.76,2176.23,22.49,9677.99
+2025/10,Norte,AM,Acessórios,Mouse Wireless,Loja Física,Diego Alves,1,8,741.24,324.24,417.0,56.26,741.24
+2025/10,Norte,AM,Acessórios,Mouse Wireless,Marketplace,Carla Mendes,1,1,79.08,35.88,43.2,54.63,79.08
+2025/10,Norte,AM,Acessórios,Mouse Wireless,Marketplace,Fernanda Rocha,1,5,448.4,197.9,250.5,55.87,448.4
+2025/10,Norte,AM,Acessórios,Mouse Wireless,Representante,,1,10,916.1,373.9,542.2,59.19,916.1
+2025/10,Norte,AM,Informática,Monitor 24,E-commerce,Ana Souza,1,3,2494.16,1693.65,800.51,32.1,2494.16
+2025/10,Norte,AM,Móveis,Mesa Office,E-commerce,Carla Mendes,1,2,1536.76,813.98,722.78,47.03,1536.76
+2025/10,Norte,AM,Telefonia,Smartphone X,Representante,Diego Alves,1,6,15233.85,12224.82,3009.03,19.75,15233.85
+2025/10,Sudeste,,Telefonia,Smartphone X,Representante,Ana Souza,1,2,6201.66,4013.0,2188.66,35.29,6201.66
+2025/10,Sudeste,MG,Acessórios,Teclado Mecânico,Marketplace,Bruno Lima,1,6,1759.92,909.3,850.62,48.33,1759.92
+2025/10,Sudeste,MG,Informática,Notebook Pro 14,E-commerce,Bruno Lima,1,2,8851.07,6269.32,2581.75,29.17,8851.07
+2025/10,Sudeste,MG,Móveis,Cadeira Ergonômica,Representante,Diego Alves,1,1,1232.39,923.31,309.08,25.08,1232.39
+2025/10,Sudeste,MG,Móveis,Mesa Office,E-commerce,Bruno Lima,1,2,1579.52,870.52,709.0,44.89,1579.52
+2025/10,Sudeste,MG,Móveis,Mesa Office,Marketplace,Fernanda Rocha,1,6,4743.54,2801.64,1941.9,40.94,4743.54
+2025/10,Sudeste,RJ,Informática,Monitor 24,Loja Física,Diego Alves,1,3,2726.9,2009.79,717.11,26.3,2726.9
+2025/10,Sudeste,RJ,Telefonia,Smartphone X,Loja Física,Bruno Lima,1,10,27546.66,20565.5,6981.16,25.34,27546.66
+2025/10,Sudeste,SP,Acessórios,Mouse Wireless,E-commerce,Diego Alves,1,1,101.36,37.7,63.66,62.81,101.36
+2025/10,Sudeste,SP,Acessórios,Teclado Mecânico,E-commerce,Diego Alves,1,2,705.12,301.86,403.26,57.19,705.12
+2025/10,Sudeste,SP,Acessórios,Teclado Mecânico,Loja Física,Carla Mendes,1,2,684.82,280.88,403.94,58.98,684.82
+2025/10,Sudeste,SP,Acessórios,Teclado Mecânico,Marketplace,Bruno Lima,1,1,315.42,139.11,176.31,55.9,315.42
+2025/10,Sudeste,SP,Acessórios,Webcam Full HD,E-commerce,Bruno Lima,1,1,195.02,85.67,109.35,56.07,195.02
+2025/10,Sudeste,SP,Informática,Monitor 24,E-commerce,Carla Mendes,1,3,2111.63,1765.95,345.68,16.37,2111.63
+2025/10,Sudeste,SP,Informática,Monitor 24,Representante,Ana Souza,1,1,996.52,652.91,343.61,34.48,996.52
 2025/10,Sudeste,SP,Móveis,Cadeira Ergonômica,Representante,Ana Souza,1,1,1293.86,921.05,372.81,28.81,1293.86
+2025/10,Sudeste,SP,Móveis,Mesa Office,Loja Física,Ana Souza,1,4,3143.95,1781.32,1362.63,43.34,3143.95
+2025/10,Sudeste ,PR,Telefonia,Carregador USB-C,E-commerce,Bruno Lima,1,3,296.09,121.32,174.77,59.03,296.09
+2025/10,Sul,PR,Acessórios,Webcam Full HD,Marketplace,Fernanda Rocha,1,3,616.83,277.05,339.78,55.08,616.83
+2025/10,Sul,PR,Informática,Monitor 24,Marketplace,Bruno Lima,1,10,8453.55,6002.1,2451.45,29.0,8453.55
+2025/10,Sul,PR,Informática,Notebook Pro 14,Representante,Bruno Lima,1,5,22701.75,15954.65,6747.1,29.72,22701.75
+2025/10,Sul,PR,Telefonia,Smartphone X,E-commerce,Ana Souza,2,16,42511.880000000005,32213.6,10298.28,24.22,21255.94
+2025/10,Sul,PR,Telefonia,Smartphone X,E-commerce,Carla Mendes,1,1,2690.61,1957.18,733.43,27.26,2690.61
+2025/10,Sul,PR,Telefonia,Smartphone X,Loja Física,Diego Alves,1,2,6174.3,3682.22,2492.08,40.36,6174.3
+2025/10,Sul,PR,Telefonia,Smartphone X,Representante,Bruno Lima,1,4,11752.24,8132.72,3619.52,30.8,11752.24
+2025/10,Sul,RS,Acessórios,Mouse Wireless,E-commerce,Bruno Lima,1,1,103.58,36.18,67.4,65.07,103.58
+2025/10,Sul,RS,Acessórios,Mouse Wireless,E-commerce,Carla Mendes,1,1,88.67,39.34,49.33,55.63,88.67
+2025/10,Sul,RS,Acessórios,Webcam Full HD,Marketplace,Bruno Lima,1,6,1220.75,504.3,716.45,58.69,1220.75
+2025/10,Sul,RS,Informática,Monitor 24,E-commerce,Carla Mendes,1,3,2460.76,1954.23,506.53,20.58,2460.76
+2025/10,Sul,RS,Informática,Monitor 24,Marketplace,Diego Alves,2,5,4656.23,3109.09,1547.14,33.23,2328.12
+2025/10,Sul,RS,Informática,Notebook Pro 14,E-commerce,Ana Souza,1,1,3818.9,2918.02,900.88,23.59,3818.9
+2025/10,Sul,RS,Informática,Notebook Pro 14,E-commerce,Carla Mendes,1,2,8566.34,6370.98,2195.36,25.63,8566.34
+2025/10,Sul,RS,Móveis,Cadeira Ergonômica,Loja Física,Bruno Lima,1,3,4450.5,2716.08,1734.42,38.97,4450.5
+2025/10,Sul,RS,Móveis,Cadeira Ergonômica,Marketplace,Fernanda Rocha,1,3,4023.02,2433.81,1589.21,39.5,4023.02
+2025/10,Sul,RS,Móveis,Mesa Office,Representante,Bruno Lima,1,4,3153.08,1860.92,1292.16,40.98,3153.08
+2025/10,Sul,RS,Telefonia,Carregador USB-C,Loja Física,Diego Alves,1,6,578.77,232.68,346.09,59.8,578.77
+2025/10,Sul,RS,Telefonia,Smartphone X,Marketplace,Bruno Lima,1,3,8998.07,6366.09,2631.98,29.25,8998.07
+2025/11,Centro-Oeste,GO,Acessórios,Headset Gamer,Marketplace,Carla Mendes,1,2,485.66,230.64,255.02,52.51,485.66
+2025/11,Centro-Oeste,GO,Acessórios,Headset Gamer,Marketplace,Fernanda Rocha,1,4,922.18,424.4,497.78,53.98,922.18
+2025/11,Centro-Oeste,GO,Acessórios,Mouse Wireless,E-commerce,Fernanda Rocha,1,8,850.08,321.36,528.72,62.2,850.08
+2025/11,Centro-Oeste,GO,Acessórios,Webcam Full HD,E-commerce,Bruno Lima,1,3,682.05,269.31,412.74,60.51,682.05
+2025/11,Centro-Oeste,GO,Acessórios,Webcam Full HD,Marketplace,Diego Alves,1,2,423.42,192.6,230.82,54.51,423.42
+2025/11,Centro-Oeste,GO,Acessórios,Webcam Full HD,Marketplace,Fernanda Rocha,1,1,181.82,95.22,86.6,47.63,181.82
+2025/11,Centro-Oeste,GO,Informática,Monitor 24,Representante,,1,5,4019.4,2991.2,1028.2,25.58,4019.4
+2025/11,Centro-Oeste,GO,Informática,Notebook Pro 14,E-commerce,Fernanda Rocha,1,1,4501.21,3257.62,1243.59,27.63,4501.21
+2025/11,Centro-Oeste,GO,Móveis,Cadeira Ergonômica,Loja Física,Bruno Lima,1,4,5056.61,3499.8,1556.81,30.79,5056.61
+2025/11,Centro-Oeste,GO,Móveis,Mesa Office,Marketplace,Ana Souza,1,4,2728.65,1594.0,1134.65,41.58,2728.65
+2025/11,Centro-Oeste,GO,Telefonia,Carregador USB-C,Loja Física,Carla Mendes,1,1,104.19,42.98,61.21,58.75,104.19
+2025/11,Centro-Oeste,GO,Telefonia,Carregador USB-C,Representante,Fernanda Rocha,1,4,454.44,167.0,287.44,63.25,454.44
+2025/11,Centro-Oeste,GO,Telefonia,Smartphone X,E-commerce,Ana Souza,1,3,8631.99,6303.48,2328.51,26.98,8631.99
+2025/11,Nordeste,BA,Acessórios,Headset Gamer,Marketplace,Carla Mendes,1,1,199.35,105.62,93.73,47.02,199.35
+2025/11,Nordeste,BA,Acessórios,Mouse Wireless,Representante,Diego Alves,1,4,363.32,141.44,221.88,61.07,363.32
+2025/11,Nordeste,BA,Móveis,Mesa Office,Representante,Carla Mendes,1,5,3691.27,2057.65,1633.62,44.26,3691.27
+2025/11,Nordeste,BA,Telefonia,Smartphone X,E-commerce,Fernanda Rocha,1,10,27527.5,19425.3,8102.2,29.43,27527.5
+2025/11,Nordeste,PE,Acessórios,Headset Gamer,Loja Física,Bruno Lima,1,8,1829.44,800.56,1028.88,56.24,1829.44
+2025/11,Nordeste,PE,Acessórios,Headset Gamer,Representante,Ana Souza,1,2,486.66,214.54,272.12,55.92,486.66
+2025/11,Nordeste,PE,Acessórios,Mouse Wireless,E-commerce,Bruno Lima,1,3,259.74,123.51,136.23,52.45,259.74
+2025/11,Nordeste,PE,Acessórios,Webcam Full HD,Loja Física,Ana Souza,1,4,744.8,379.12,365.68,49.1,744.8
+2025/11,Nordeste,PE,Acessórios,Webcam Full HD,Loja Física,Diego Alves,1,3,588.46,249.33,339.13,57.63,588.46
+2025/11,Nordeste,PE,Informática,Notebook Pro 14,E-commerce,Carla Mendes,1,1,4445.28,3148.1,1297.18,29.18,4445.28
+2025/11,Nordeste,PE,Móveis,Cadeira Ergonômica,Marketplace,Carla Mendes,1,1,1256.17,811.47,444.7,35.4,1256.17
+2025/11,Nordeste,PE,Móveis,Cadeira Ergonômica,Representante,Carla Mendes,1,3,3885.05,2680.8,1204.25,31.0,3885.05
+2025/11,Norte,AM,Acessórios,Headset Gamer,Marketplace,Ana Souza,1,4,953.12,407.76,545.36,57.22,953.12
+2025/11,Norte,AM,Acessórios,Webcam Full HD,Marketplace,Ana Souza,1,2,433.3,178.18,255.12,58.88,433.3
+2025/11,Norte,AM,Informática,Monitor 24,E-commerce,Bruno Lima,1,3,2787.03,1896.81,890.22,31.94,2787.03
+2025/11,Norte,AM,Informática,Notebook Pro 14,E-commerce,Ana Souza,1,3,12542.61,8610.0,3932.61,31.35,12542.61
+2025/11,Norte,AM,Informática,Notebook Pro 14,Loja Física,Fernanda Rocha,1,1,3749.98,3098.13,651.85,17.38,3749.98
+2025/11,Norte,AM,Telefonia,Carregador USB-C,E-commerce,Fernanda Rocha,1,2,222.68,85.72,136.96,61.51,222.68
+2025/11,Norte,AM,Telefonia,Smartphone X,Marketplace,Carla Mendes,1,3,9251.1,6268.62,2982.48,32.24,9251.1
+2025/11,Sudeste,MG,Acessórios,Teclado Mecânico,Loja Física,Bruno Lima,1,3,874.62,443.37,431.25,49.31,874.62
+2025/11,Sudeste,MG,Acessórios,Webcam Full HD,E-commerce,Carla Mendes,1,2,381.78,166.04,215.74,56.51,381.78
+2025/11,Sudeste,RJ,Acessórios,Headset Gamer,Marketplace,Carla Mendes,1,1,241.01,108.46,132.55,55.0,241.01
+2025/11,Sudeste,RJ,Acessórios,Mouse Wireless,Loja Física,Fernanda Rocha,1,4,398.64,165.6,233.04,58.46,398.64
+2025/11,Sudeste,RJ,Móveis,Cadeira Ergonômica,Representante,Diego Alves,1,2,2760.22,1868.26,891.96,32.31,2760.22
+2025/11,Sudeste,RJ,Móveis,Mesa Office,Loja Física,Ana Souza,1,2,1543.02,846.4,696.62,45.15,1543.02
+2025/11,Sudeste,RJ,Telefonia,Smartphone X,Loja Física,,1,6,18543.18,11090.88,7452.3,40.19,18543.18
+2025/11,Sudeste,SP,Acessórios,Headset Gamer,Marketplace,Carla Mendes,1,3,698.52,290.22,408.3,58.45,698.52
+2025/11,Sudeste,SP,Acessórios,Teclado Mecânico,E-commerce,Carla Mendes,1,10,3027.4,1594.3,1433.1,47.34,3027.4
+2025/11,Sudeste,SP,Acessórios,Teclado Mecânico,Loja Física,Fernanda Rocha,1,3,1024.79,413.85,610.94,59.62,1024.79
+2025/11,Sudeste,SP,Acessórios,Teclado Mecânico,Representante,Diego Alves,1,2,579.16,295.08,284.08,49.05,579.16
+2025/11,Sudeste,SP,Informática,Notebook Pro 14,E-commerce,Carla Mendes,1,2,8993.8,6230.98,2762.82,30.72,8993.8
+2025/11,Sudeste,SP,Informática,Notebook Pro 14,Loja Física,Carla Mendes,2,12,50337.41,36422.34,13915.07,27.64,25168.71
+2025/11,Sudeste,SP,Móveis,Cadeira Ergonômica,Marketplace,Fernanda Rocha,1,1,1214.91,887.19,327.72,26.97,1214.91
+2025/11,Sudeste,SP,Móveis,Mesa Office,Loja Física,Bruno Lima,1,1,775.44,433.5,341.94,44.1,775.44
+2025/11,Sudeste,SP,Móveis,Mesa Office,Loja Física,Diego Alves,1,8,5788.48,3378.16,2410.32,41.64,5788.48
+2025/11,Sudeste,SP,Telefonia,Carregador USB-C,Marketplace,Ana Souza,1,4,489.6,174.6,315.0,64.34,489.6
+2025/11,Sudeste,SP,Telefonia,Carregador USB-C,Marketplace,Bruno Lima,1,8,763.75,351.76,411.99,53.94,763.75
+2025/11,Sudeste,SP,Telefonia,Carregador USB-C,Representante,Ana Souza,1,2,189.07,77.78,111.29,58.86,189.07
+2025/11,Sul,PR,Acessórios,Headset Gamer,Loja Física,Fernanda Rocha,1,2,484.7,219.08,265.62,54.8,484.7
+2025/11,Sul,PR,Acessórios,Mouse Wireless,E-commerce,Ana Souza,1,3,271.5,116.76,154.74,56.99,271.5
+2025/11,Sul,PR,Acessórios,Webcam Full HD,Loja Física,Carla Mendes,1,3,661.88,268.53,393.35,59.43,661.88
+2025/11,Sul,PR,Acessórios,Webcam Full HD,Marketplace,Carla Mendes,1,1,198.45,91.07,107.38,54.11,198.45
+2025/11,Sul,PR,Acessórios,Webcam Full HD,Marketplace,Fernanda Rocha,1,5,990.35,492.05,498.3,50.32,990.35
+2025/11,Sul,PR,Móveis,Mesa Office,Loja Física,Bruno Lima,1,2,1631.21,902.82,728.39,44.65,1631.21
+2025/11,Sul,PR,Telefonia,Carregador USB-C,Representante,Fernanda Rocha,1,1,111.49,39.42,72.07,64.64,111.49
+2025/11,Sul,RS,Acessórios,Mouse Wireless,Representante,Carla Mendes,1,2,203.22,70.94,132.28,65.09,203.22
+2025/11,Sul,RS,Móveis,Mesa Office,Representante,Diego Alves,1,3,2133.12,1353.33,779.79,36.56,2133.12
+2025/12,Centro-Oeste,GO,Acessórios,Teclado Mecânico,E-commerce,Carla Mendes,1,1,350.56,157.65,192.91,55.03,350.56
+2025/12,Centro-Oeste,GO,Informática,Notebook Pro 14,Representante,Fernanda Rocha,1,4,18744.88,11719.56,7025.32,37.48,18744.88
+2025/12,Centro-Oeste,GO,Móveis,Cadeira Ergonômica,E-commerce,Carla Mendes,1,2,2497.38,1838.68,658.7,26.38,2497.38
+2025/12,Centro-Oeste,GO,Telefonia,Smartphone X,Representante,Diego Alves,1,4,11735.39,7503.84,4231.55,36.06,11735.39
+2025/12,Nordeste,,Informática,Monitor 24,E-commerce,Ana Souza,1,3,2290.59,1728.54,562.05,24.54,2290.59
+2025/12,Nordeste,BA,Acessórios,Mouse Wireless,Loja Física,Fernanda Rocha,1,2,201.19,81.18,120.01,59.65,201.19
+2025/12,Nordeste,BA,Acessórios,Teclado Mecânico,Marketplace,Diego Alves,1,3,1022.05,455.58,566.47,55.42,1022.05
+2025/12,Nordeste,BA,Acessórios,Webcam Full HD,Marketplace,Fernanda Rocha,1,2,347.67,193.36,154.31,44.38,347.67
+2025/12,Nordeste,BA,Informática,Monitor 24,Representante,Carla Mendes,1,3,2365.07,1701.96,663.11,28.04,2365.07
+2025/12,Nordeste,PE,Acessórios,Headset Gamer,Loja Física,Fernanda Rocha,1,1,232.03,101.49,130.54,56.26,232.03
+2025/12,Nordeste,PE,Acessórios,Headset Gamer,Representante,Carla Mendes,1,3,638.69,340.5,298.19,46.69,638.69
+2025/12,Nordeste,PE,Acessórios,Mouse Wireless,Marketplace,Ana Souza,1,2,189.4,78.24,111.16,58.69,189.4
+2025/12,Norte,AM,Acessórios,Webcam Full HD,Marketplace,Ana Souza,1,2,391.62,179.66,211.96,54.12,391.62
+2025/12,Norte,AM,Acessórios,Webcam Full HD,Marketplace,Diego Alves,1,3,522.72,283.05,239.67,45.85,522.72
+2025/12,Norte,AM,Acessórios,Webcam Full HD,Representante,Bruno Lima,1,8,1669.49,673.44,996.05,59.66,1669.49
+2025/12,Norte,AM,Informática,Monitor 24,Marketplace,Bruno Lima,1,10,7716.94,6692.1,1024.84,13.28,7716.94
+2025/12,Norte,AM,Informática,Notebook Pro 14,Loja Física,Bruno Lima,1,3,13082.72,9328.29,3754.43,28.7,13082.72
+2025/12,Norte,AM,Telefonia,Smartphone X,Marketplace,Fernanda Rocha,1,4,11678.24,7509.08,4169.16,35.7,11678.24
+2025/12,Sudeste,MG,Informática,Notebook Pro 14,Representante,Diego Alves,1,3,11971.08,8636.19,3334.89,27.86,11971.08
+2025/12,Sudeste,MG,Móveis,Mesa Office,Marketplace,Ana Souza,1,3,2476.21,1306.53,1169.68,47.24,2476.21
+2025/12,Sudeste,MG,Telefonia,Smartphone X,Marketplace,Fernanda Rocha,1,5,14311.11,10184.0,4127.11,28.84,14311.11
+2025/12,Sudeste,RJ,Informática,Monitor 24,Loja Física,Diego Alves,1,8,7191.84,4891.68,2300.16,31.98,7191.84
+2025/12,Sudeste,RJ,Móveis,Cadeira Ergonômica,Representante,Diego Alves,1,5,6323.16,4028.15,2295.01,36.3,6323.16
+2025/12,Sudeste,RJ,Móveis,Mesa Office,E-commerce,Diego Alves,1,4,3199.8,1887.84,1311.96,41.0,3199.8
+2025/12,Sudeste,RJ,Telefonia,Carregador USB-C,ecommerce,Carla Mendes,1,4,414.44,156.72,257.72,62.19,414.44
+2025/12,Sudeste,SP,Acessórios,Headset Gamer,Loja Física,Fernanda Rocha,1,1,220.65,100.42,120.23,54.49,220.65
+2025/12,Sudeste,SP,Acessórios,Mouse Wireless,Marketplace,Ana Souza,1,4,376.44,158.04,218.4,58.02,376.44
+2025/12,Sudeste,SP,Acessórios,Teclado Mecânico,Marketplace,,1,5,1717.95,731.5,986.45,57.42,1717.95
+2025/12,Sudeste,SP,Acessórios,Webcam Full HD,Loja Física,Ana Souza,1,1,186.41,85.09,101.32,54.35,186.41
+2025/12,Sudeste,SP,Acessórios,Webcam Full HD,Marketplace,Diego Alves,1,1,213.57,96.36,117.21,54.88,213.57
+2025/12,Sudeste,SP,Informática,Notebook Pro 14,Loja Física,Carla Mendes,1,1,4417.56,3100.17,1317.39,29.82,4417.56
+2025/12,Sudeste,SP,Informática,Notebook Pro 14,Loja Física,Fernanda Rocha,1,3,11973.82,9117.99,2855.83,23.85,11973.82
+2025/12,Sudeste,SP,Móveis,Cadeira Ergonômica,E-commerce,Fernanda Rocha,1,1,1248.79,901.85,346.94,27.78,1248.79
+2025/12,Sudeste,SP,Móveis,Mesa Office,E-commerce,Ana Souza,1,5,3371.17,2110.1,1261.07,37.41,3371.17
+2025/12,Sudeste,SP,Móveis,Mesa Office,Marketplace,Ana Souza,1,5,3770.4,2100.65,1669.75,44.29,3770.4
+2025/12,Sudeste,SP,Telefonia,Carregador USB-C,E-commerce,Ana Souza,1,1,115.59,40.16,75.43,65.26,115.59
+2025/12,Sudeste,SP,Telefonia,Carregador USB-C,Representante,,1,5,542.42,200.8,341.62,62.98,542.42
+2025/12,Sudeste,SP,Telefonia,Smartphone X,Marketplace,Ana Souza,1,4,11420.94,8127.12,3293.82,28.84,11420.94
+2025/12,Sudeste,SP,Telefonia,Smartphone X,Marketplace,Bruno Lima,1,5,13594.75,9576.0,4018.75,29.56,13594.75
+2025/12,Sudeste ,PR,Acessórios,Webcam Full HD,Loja Física,Diego Alves,1,6,1244.94,503.28,741.66,59.57,1244.94
+2025/12,Sul,PR,Acessórios,Webcam Full HD,E-commerce,Ana Souza,1,3,569.57,251.94,317.63,55.77,569.57
+2025/12,Sul,PR,Acessórios,Webcam Full HD,Marketplace,Bruno Lima,1,1,203.9,90.18,113.72,55.77,203.9
+2025/12,Sul,PR,Acessórios,Webcam Full HD,Representante,,1,1,221.38,96.11,125.27,56.59,221.38
+2025/12,Sul,PR,Informática,Monitor 24,E-commerce,Ana Souza,1,1,839.45,625.23,214.22,25.52,839.45
+2025/12,Sul,PR,Informática,Monitor 24,Loja Física,Ana Souza,1,4,3635.21,2378.88,1256.33,34.56,3635.21
+2025/12,Sul,PR,Informática,Monitor 24,Representante,Bruno Lima,1,2,1491.26,1303.86,187.4,12.57,1491.26
+2025/12,Sul,PR,Informática,Monitor 24,Representante,Carla Mendes,1,3,2596.92,1997.64,599.28,23.08,2596.92
+2025/12,Sul,PR,Telefonia,Carregador USB-C,Marketplace,Bruno Lima,1,3,308.7,116.34,192.36,62.31,308.7
+2025/12,Sul,PR,Telefonia,Smartphone X,Marketplace,Fernanda Rocha,1,2,5041.58,4024.24,1017.34,20.18,5041.58
+2025/12,Sul,RS,Acessórios,Headset Gamer,Representante,Fernanda Rocha,1,5,1196.3,507.5,688.8,57.58,1196.3
+2025/12,Sul,RS,Acessórios,Headset Gamer,ecommerce,Ana Souza,1,1,238.69,108.76,129.93,54.43,238.69
+2025/12,Sul,RS,Acessórios,Mouse Wireless,Representante,,1,3,307.92,115.11,192.81,62.62,307.92
+2025/12,Sul,RS,Informática,Monitor 24,E-commerce,Carla Mendes,1,6,5308.2,3375.48,1932.72,36.41,5308.2
+2025/12,Sul,RS,Informática,Monitor 24,Representante,Ana Souza,1,4,3782.48,2528.0,1254.48,33.17,3782.48
+2025/12,Sul,RS,Informática,Notebook Pro 14,Loja Física,Bruno Lima,1,1,3876.71,3242.77,633.94,16.35,3876.71
+2025/12,Sul,RS,Móveis,Mesa Office,Marketplace,,1,2,1492.6,881.48,611.12,40.94,1492.6
+2025/12,Sul,RS,Móveis,Mesa Office,ecommerce,Diego Alves,1,2,1468.34,791.7,676.64,46.08,1468.34
+2025/12,Sul,RS,Telefonia,Smartphone X,Representante,Carla Mendes,1,2,6187.92,3705.28,2482.64,40.12,6187.92
+2026/01,Centro-Oeste,,Acessórios,Webcam Full HD,Marketplace,Fernanda Rocha,1,3,581.55,296.34,285.21,49.04,581.55
+2026/01,Centro-Oeste,GO,Acessórios,Headset Gamer,Marketplace,Fernanda Rocha,1,4,985.52,407.24,578.28,58.68,985.52
+2026/01,Centro-Oeste,GO,Acessórios,Webcam Full HD,Loja Física,Ana Souza,1,1,234.39,95.99,138.4,59.05,234.39
+2026/01,Centro-Oeste,GO,Acessórios,Webcam Full HD,Marketplace,Ana Souza,1,5,1083.38,421.2,662.18,61.12,1083.38
+2026/01,Centro-Oeste,GO,Informática,Monitor 24,E-commerce,Ana Souza,1,3,2338.37,1723.44,614.93,26.3,2338.37
+2026/01,Centro-Oeste,GO,Móveis,Cadeira Ergonômica,Loja Física,Diego Alves,1,3,3802.26,2553.99,1248.27,32.83,3802.26
+2026/01,Centro-Oeste,GO,Móveis,Cadeira Ergonômica,Representante,Fernanda Rocha,1,4,5994.04,3500.64,2493.4,41.6,5994.04
+2026/01,Centro-Oeste,GO,Móveis,Mesa Office,Loja Física,Fernanda Rocha,1,2,1629.94,834.04,795.9,48.83,1629.94
+2026/01,Centro-Oeste,GO,Móveis,Mesa Office,Marketplace,Diego Alves,1,6,4212.05,2439.6,1772.45,42.08,4212.05
+2026/01,Centro-Oeste,GO,Telefonia,Carregador USB-C,Marketplace,Bruno Lima,1,1,113.48,42.63,70.85,62.43,113.48
+2026/01,Centro-Oeste,GO,Telefonia,Smartphone X,E-commerce,Diego Alves,1,3,8817.06,5555.46,3261.6,36.99,8817.06
+2026/01,Centro-Oeste,GO,Telefonia,Smartphone X,Loja Física,Bruno Lima,1,5,14022.9,10178.15,3844.75,27.42,14022.9
+2026/01,Nordeste,BA,Acessórios,Headset Gamer,Representante,Fernanda Rocha,1,3,602.21,339.0,263.21,43.71,602.21
+2026/01,Nordeste,BA,Acessórios,Mouse Wireless,E-commerce,Diego Alves,1,1,102.39,39.11,63.28,61.8,102.39
+2026/01,Nordeste,BA,Acessórios,Webcam Full HD,E-commerce,Bruno Lima,1,3,652.65,259.41,393.24,60.25,652.65
+2026/01,Nordeste,BA,Acessórios,Webcam Full HD,Marketplace,Bruno Lima,1,1,190.94,98.8,92.14,48.26,190.94
+2026/01,Nordeste,BA,Informática,Monitor 24,Marketplace,Diego Alves,1,1,920.86,619.24,301.62,32.75,920.86
+2026/01,Nordeste,BA,Móveis,Cadeira Ergonômica,E-commerce,Bruno Lima,1,1,1381.27,815.52,565.75,40.96,1381.27
+2026/01,Nordeste,BA,Móveis,Cadeira Ergonômica,Loja Física,Diego Alves,1,4,5987.16,3709.92,2277.24,38.04,5987.16
+2026/01,Nordeste,PE,Acessórios,Headset Gamer,Marketplace,Diego Alves,1,4,917.48,441.08,476.4,51.92,917.48
+2026/01,Nordeste,PE,Acessórios,Webcam Full HD,Loja Física,Diego Alves,1,6,1242.05,581.16,660.89,53.21,1242.05
+2026/01,Nordeste,PE,Acessórios,Webcam Full HD,Loja Física,Fernanda Rocha,1,4,804.04,390.64,413.4,51.42,804.04
+2026/01,Nordeste,PE,Informática,Monitor 24,Marketplace,Bruno Lima,1,5,4583.05,3106.85,1476.2,32.21,4583.05
+2026/01,Nordeste,PE,Informática,Notebook Pro 14,E-commerce,Carla Mendes,1,10,41552.34,33421.6,8130.74,19.57,41552.34
+2026/01,Nordeste,PE,Informática,Notebook Pro 14,Representante,Diego Alves,1,2,8837.08,5821.28,3015.8,34.13,8837.08
+2026/01,Nordeste,PE,Informática,Notebook Pro 14,ecommerce,Ana Souza,1,2,7071.41,5925.76,1145.65,16.2,7071.41
+2026/01,Nordeste,PE,Móveis,Cadeira Ergonômica,Marketplace,Diego Alves,1,6,9010.74,5120.46,3890.28,43.17,9010.74
+2026/01,Norte,AM,Acessórios,Headset Gamer,E-commerce,Fernanda Rocha,1,10,2096.74,1059.3,1037.44,49.48,2096.74
+2026/01,Norte,AM,Acessórios,Mouse Wireless,E-commerce,Ana Souza,1,1,86.93,37.02,49.91,57.41,86.93
+2026/01,Norte,AM,Acessórios,Mouse Wireless,Loja Física,Diego Alves,1,6,556.98,215.64,341.34,61.28,556.98
+2026/01,Norte,AM,Acessórios,Teclado Mecânico,Loja Física,Bruno Lima,1,5,1524.4,732.9,791.5,51.92,1524.4
+2026/01,Norte,AM,Acessórios,Webcam Full HD,E-commerce,Bruno Lima,1,3,703.02,282.57,420.45,59.81,703.02
+2026/01,Norte,AM,Informática,Monitor 24,Marketplace,Diego Alves,1,2,1664.46,1137.88,526.58,31.64,1664.46
 2026/01,Norte,AM,Informática,Notebook Pro 14,E-commerce,Carla Mendes,1,1,3776.66,2981.69,794.97,21.05,3776.66
+2026/01,Norte,AM,Informática,Notebook Pro 14,Loja Física,Ana Souza,1,2,7768.6,5687.48,2081.12,26.79,7768.6
+2026/01,Norte,AM,Móveis,Mesa Office,Marketplace,Carla Mendes,1,10,7892.98,4231.0,3661.98,46.4,7892.98
+2026/01,Norte,AM,Telefonia,Carregador USB-C,Representante,Fernanda Rocha,1,3,317.91,127.17,190.74,60.0,317.91
+2026/01,Norte,AM,Telefonia,Smartphone X,E-commerce,Fernanda Rocha,1,2,4924.19,4312.16,612.03,12.43,4924.19
+2026/01,Sudeste,MG,Acessórios,Headset Gamer,Marketplace,Carla Mendes,1,4,968.68,387.28,581.4,60.02,968.68
+2026/01,Sudeste,MG,Acessórios,Webcam Full HD,E-commerce,Ana Souza,1,2,415.1,186.82,228.28,54.99,415.1
+2026/01,Sudeste,MG,Acessórios,Webcam Full HD,E-commerce,Diego Alves,1,3,560.41,286.17,274.24,48.94,560.41
+2026/01,Sudeste,MG,Informática,Monitor 24,Representante,Bruno Lima,1,2,1670.16,1261.86,408.3,24.45,1670.16
+2026/01,Sudeste,MG,Móveis,Cadeira Ergonômica,Loja Física,Diego Alves,1,1,1264.74,900.06,364.68,28.83,1264.74
+2026/01,Sudeste,MG,Móveis,Mesa Office,E-commerce,Diego Alves,1,2,1448.72,882.18,566.54,39.11,1448.72
+2026/01,Sudeste,MG,Móveis,Mesa Office,Loja Física,Carla Mendes,1,1,805.73,462.34,343.39,42.62,805.73
+2026/01,Sudeste,RJ,Acessórios,Mouse Wireless,Representante,Ana Souza,1,5,493.0,177.05,315.95,64.09,493.0
+2026/01,Sudeste,RJ,Informática,Monitor 24,E-commerce,Carla Mendes,1,2,1650.97,1221.7,429.27,26.0,1650.97
+2026/01,Sudeste,RJ,Informática,Monitor 24,Loja Física,Bruno Lima,1,8,7881.6,5258.0,2623.6,33.29,7881.6
+2026/01,Sudeste,RJ,Móveis,Mesa Office,Marketplace,Fernanda Rocha,1,2,1292.36,930.58,361.78,27.99,1292.36
+2026/01,Sudeste,RJ,Móveis,Mesa Office,Representante,Diego Alves,1,4,3233.0,1590.36,1642.64,50.81,3233.0
+2026/01,Sudeste,RJ,Telefonia,Carregador USB-C,Marketplace,Carla Mendes,1,3,316.35,117.9,198.45,62.73,316.35
+2026/01,Sudeste,RJ,Telefonia,Smartphone X,Representante,Bruno Lima,1,2,5261.44,3956.48,1304.96,24.8,5261.44
+2026/01,Sudeste,RJ,Telefonia,Smartphone X,Representante,Carla Mendes,1,1,2953.75,1891.92,1061.83,35.95,2953.75
+2026/01,Sudeste,SP,Acessórios,Headset Gamer,Marketplace,Carla Mendes,1,1,233.67,101.46,132.21,56.58,233.67
+2026/01,Sudeste,SP,Acessórios,Mouse Wireless,Representante,Ana Souza,1,2,187.43,79.64,107.79,57.51,187.43
+2026/01,Sudeste,SP,Acessórios,Teclado Mecânico,E-commerce,Ana Souza,2,6,1797.84,834.44,963.4,53.59,898.92
+2026/01,Sudeste,SP,Acessórios,Teclado Mecânico,E-commerce,Carla Mendes,1,6,2124.18,860.76,1263.42,59.48,2124.18
+2026/01,Sudeste,SP,Acessórios,Teclado Mecânico,Marketplace,Carla Mendes,1,4,1152.77,560.8,591.97,51.35,1152.77
+2026/01,Sudeste,SP,Acessórios,Teclado Mecânico,Representante,Diego Alves,1,2,665.38,305.92,359.46,54.02,665.38
+2026/01,Sudeste,SP,Móveis,Cadeira Ergonômica,E-commerce,Diego Alves,1,2,2848.2,1715.64,1132.56,39.76,2848.2
+2026/01,Sudeste,SP,Móveis,Cadeira Ergonômica,Loja Física,Diego Alves,1,6,6983.57,4814.82,2168.75,31.06,6983.57
+2026/01,Sudeste,SP,Móveis,Cadeira Ergonômica,Representante,Diego Alves,1,5,6017.08,4700.35,1316.73,21.88,6017.08
+2026/01,Sudeste,SP,Telefonia,Smartphone X,Representante,Carla Mendes,1,2,5872.03,3972.38,1899.65,32.35,5872.03
+2026/01,Sudeste,SP,informatica,Smartphone X,Representante,Carla Mendes,1,3,7719.0,5577.57,2141.43,27.74,7719.0
+2026/01,Sul,PR,Acessórios,Headset Gamer,Marketplace,Fernanda Rocha,1,8,2002.48,833.6,1168.88,58.37,2002.48
+2026/01,Sul,PR,Móveis,Mesa Office,Loja Física,Fernanda Rocha,1,10,7349.49,4161.5,3187.99,43.38,7349.49
+2026/01,Sul,PR,Móveis,Mesa Office,Representante,Diego Alves,1,5,3717.35,2100.65,1616.7,43.49,3717.35
+2026/01,Sul,PR,Telefonia,Carregador USB-C,E-commerce,Diego Alves,1,2,233.7,78.96,154.74,66.21,233.7
+2026/01,Sul,PR,Telefonia,Carregador USB-C,Loja Física,Ana Souza,1,2,202.67,83.92,118.75,58.59,202.67
+2026/01,Sul,RS,Acessórios,Headset Gamer,E-commerce,Fernanda Rocha,1,2,421.91,204.12,217.79,51.62,421.91
+2026/01,Sul,RS,Acessórios,Headset Gamer,Marketplace,Carla Mendes,1,2,503.76,215.64,288.12,57.19,503.76
+2026/01,Sul,RS,Informática,Monitor 24,Marketplace,Carla Mendes,1,1,771.34,611.04,160.3,20.78,771.34
+2026/01,Sul,RS,Informática,Monitor 24,Representante,Bruno Lima,1,5,4530.3,2839.8,1690.5,37.32,4530.3
+2026/01,Sul,RS,Informática,Notebook Pro 14,Representante,Ana Souza,1,6,25074.42,18253.8,6820.62,27.2,25074.42
+2026/01,Sul,RS,Móveis,Cadeira Ergonômica,E-commerce,Fernanda Rocha,1,1,1294.83,839.06,455.77,35.2,1294.83
+2026/01,Sul,RS,Telefonia,Carregador USB-C,Loja Física,Ana Souza,1,6,590.69,250.26,340.43,57.63,590.69
+2026/02,Centro-Oeste,GO,Acessórios,Webcam Full HD,E-commerce,Bruno Lima,1,1,213.43,95.31,118.12,55.34,213.43
+2026/02,Centro-Oeste,GO,Informática,Monitor 24,Loja Física,Fernanda Rocha,1,2,1573.94,1255.24,318.7,20.25,1573.94
+2026/02,Centro-Oeste,GO,Informática,Monitor 24,Marketplace,,1,1,870.47,567.5,302.97,34.81,870.47
+2026/02,Centro-Oeste,GO,Móveis,Cadeira Ergonômica,E-commerce,Diego Alves,1,2,2589.94,1607.08,982.86,37.95,2589.94
+2026/02,Centro-Oeste,GO,Móveis,Mesa Office,Representante,Carla Mendes,1,2,1693.98,817.28,876.7,51.75,1693.98
+2026/02,Centro-Oeste,GO,Telefonia,Smartphone X,Marketplace,Ana Souza,1,4,10055.49,7909.6,2145.89,21.34,10055.49
+2026/02,Nordeste,BA,Acessórios,Headset Gamer,E-commerce,Diego Alves,1,6,1374.25,617.34,756.91,55.08,1374.25
+2026/02,Nordeste,BA,Acessórios,Headset Gamer,Marketplace,Fernanda Rocha,1,3,745.92,316.02,429.9,57.63,745.92
+2026/02,Nordeste,BA,Acessórios,Mouse Wireless,Marketplace,Bruno Lima,1,1,91.17,40.38,50.79,55.71,91.17
+2026/02,Nordeste,BA,Acessórios,Teclado Mecânico,Marketplace,Diego Alves,1,1,316.88,150.44,166.44,52.52,316.88
+2026/02,Nordeste,BA,Acessórios,Teclado Mecânico,Representante,Carla Mendes,1,1,314.33,147.45,166.88,53.09,314.33
+2026/02,Nordeste,BA,Informática,Monitor 24,E-commerce,Bruno Lima,1,1,980.45,602.05,378.4,38.59,980.45
+2026/02,Nordeste,BA,Informática,Notebook Pro 14,Loja Física,Fernanda Rocha,1,3,10535.3,8600.37,1934.93,18.37,10535.3
+2026/02,Nordeste,BA,Móveis,Mesa Office,Marketplace,Diego Alves,1,10,8589.7,4049.8,4539.9,52.85,8589.7
+2026/02,Nordeste,PE,Acessórios,Headset Gamer,E-commerce,Fernanda Rocha,1,2,509.78,195.06,314.72,61.74,509.78
+2026/02,Nordeste,PE,Acessórios,Headset Gamer,Marketplace,Bruno Lima,1,2,490.62,209.32,281.3,57.34,490.62
+2026/02,Nordeste,PE,Acessórios,Teclado Mecânico,Representante,Diego Alves,1,1,268.07,148.29,119.78,44.68,268.07
+2026/02,Nordeste,PE,Acessórios,Webcam Full HD,E-commerce,Bruno Lima,1,1,234.2,90.7,143.5,61.27,234.2
+2026/02,Nordeste,PE,Informática,Notebook Pro 14,Representante,Diego Alves,1,3,11562.18,9058.44,2503.74,21.65,11562.18
+2026/02,Nordeste,PE,Móveis,Cadeira Ergonômica,E-commerce,Diego Alves,1,3,4521.15,2721.27,1799.88,39.81,4521.15
+2026/02,Nordeste,PE,Móveis,Cadeira Ergonômica,Marketplace,Diego Alves,1,5,6953.7,4524.0,2429.7,34.94,6953.7
+2026/02,Norte,AM,Acessórios,Mouse Wireless,Representante,Fernanda Rocha,1,6,534.18,239.22,294.96,55.22,534.18
+2026/02,Norte,AM,Informática,Notebook Pro 14,Marketplace,Bruno Lima,1,3,12631.09,9034.89,3596.2,28.47,12631.09
+2026/02,Norte,AM,Informática,Notebook Pro 14,Marketplace,Fernanda Rocha,2,5,20610.059999999998,15562.830000000002,5047.23,24.49,10305.03
+2026/02,Norte,AM,Informática,Notebook Pro 14,Representante,Bruno Lima,1,4,17545.24,11532.16,6013.08,34.27,17545.24
+2026/02,Norte,AM,Móveis,Cadeira Ergonômica,Marketplace,Bruno Lima,1,3,3954.2,2632.23,1321.97,33.43,3954.2
+2026/02,Norte,AM,Móveis,Mesa Office,Loja Física,Ana Souza,1,5,3516.0,2343.05,1172.95,33.36,3516.0
+2026/02,Norte,AM,Telefonia,Carregador USB-C,Marketplace,Fernanda Rocha,1,4,440.4,181.76,258.64,58.73,440.4
+2026/02,Sudeste,MG,Informática,Notebook Pro 14,Representante,Diego Alves,1,3,13875.33,9513.69,4361.64,31.43,13875.33
+2026/02,Sudeste,MG,Móveis,Cadeira Ergonômica,Loja Física,Carla Mendes,1,8,9001.73,7259.92,1741.81,19.35,9001.73
+2026/02,Sudeste,MG,Móveis,Cadeira Ergonômica,Marketplace,Fernanda Rocha,1,10,11461.41,9561.9,1899.51,16.57,11461.41
+2026/02,Sudeste,MG,Móveis,Mesa Office,Marketplace,Carla Mendes,1,1,759.46,439.74,319.72,42.1,759.46
+2026/02,Sudeste,MG,Telefonia,Carregador USB-C,Loja Física,Ana Souza,1,3,326.36,118.98,207.38,63.54,326.36
+2026/02,Sudeste,RJ,Acessórios,Teclado Mecânico,Loja Física,Fernanda Rocha,1,2,615.28,318.94,296.34,48.16,615.28
+2026/02,Sudeste,RJ,Acessórios,Webcam Full HD,Marketplace,Ana Souza,1,4,776.52,384.16,392.36,50.53,776.52
+2026/02,Sudeste,RJ,Informática,Notebook Pro 14,Representante,Fernanda Rocha,1,8,33605.76,26232.56,7373.2,21.94,33605.76
+2026/02,Sudeste,RJ,Móveis,Cadeira Ergonômica,Marketplace,Fernanda Rocha,1,5,7104.05,4337.0,2767.05,38.95,7104.05
+2026/02,Sudeste,RJ,Móveis,Mesa Office,Marketplace,Diego Alves,1,8,6492.6,3665.28,2827.32,43.55,6492.6
+2026/02,Sudeste,RJ,Móveis,Mesa Office,Representante,Fernanda Rocha,1,5,4187.85,2009.3,2178.55,52.02,4187.85
+2026/02,Sudeste,SP,Acessórios,Mouse Wireless,E-commerce,Ana Souza,1,2,197.2,81.18,116.02,58.83,197.2
+2026/02,Sudeste,SP,Acessórios,Mouse Wireless,Loja Física,Ana Souza,1,3,305.2,114.9,190.3,62.35,305.2
+2026/02,Sudeste,SP,Acessórios,Mouse Wireless,Loja Física,Bruno Lima,1,4,319.25,164.28,154.97,48.54,319.25
+2026/02,Sudeste,SP,Acessórios,Teclado Mecânico,Loja Física,Bruno Lima,1,5,1532.35,672.2,860.15,56.13,1532.35
+2026/02,Sudeste,SP,Móveis,Mesa Office,Loja Física,Carla Mendes,1,1,741.71,442.56,299.15,40.33,741.71
+2026/02,Sudeste,SP,Móveis,Mesa Office,Representante,Ana Souza,1,8,6562.24,3385.68,3176.56,48.41,6562.24
+2026/02,Sudeste,SP,Telefonia,Carregador USB-C,Loja Física,Carla Mendes,1,1,113.44,45.33,68.11,60.04,113.44
+2026/02,Sudeste,SP,Telefonia,Carregador USB-C,Marketplace,Fernanda Rocha,1,1,114.17,46.17,68.0,59.56,114.17
+2026/02,Sudeste,SP,Telefonia,Carregador USB-C,Representante,Bruno Lima,1,3,295.26,128.55,166.71,56.46,295.26
+2026/02,Sudeste,SP,Telefonia,Smartphone X,Loja Física,Bruno Lima,1,3,8568.54,5551.92,3016.62,35.21,8568.54
+2026/02,Sul,PR,Acessórios,Teclado Mecânico,Loja Física,Ana Souza,1,5,1584.12,683.75,900.37,56.84,1584.12
+2026/02,Sul,PR,Acessórios,Teclado Mecânico,Marketplace,Bruno Lima,1,5,1576.74,691.5,885.24,56.14,1576.74
+2026/02,Sul,PR,Acessórios,Webcam Full HD,Marketplace,Bruno Lima,1,1,193.98,93.11,100.87,52.0,193.98
+2026/02,Sul,PR,Móveis,Cadeira Ergonômica,Representante,Fernanda Rocha,1,2,2150.91,1868.06,282.85,13.15,2150.91
+2026/02,Sul,PR,Móveis,Mesa Office,Representante,Fernanda Rocha,1,5,3417.89,2124.85,1293.04,37.83,3417.89
+2026/02,Sul,PR,Telefonia,Carregador USB-C,Representante,Bruno Lima,1,3,259.77,120.78,138.99,53.51,259.77
+2026/02,Sul,RS,Acessórios,Headset Gamer,Representante,Fernanda Rocha,1,5,1299.7,499.2,800.5,61.59,1299.7
+2026/02,Sul,RS,Informática,Monitor 24,E-commerce,Carla Mendes,1,1,817.07,563.4,253.67,31.05,817.07
+2026/02,Sul,RS,Informática,Monitor 24,Representante,Diego Alves,1,1,800.2,585.33,214.87,26.85,800.2
+2026/02,Sul,RS,Móveis,Cadeira Ergonômica,Loja Física,Fernanda Rocha,1,2,2366.88,1841.8,525.08,22.18,2366.88
+2026/02,Sul,RS,Móveis,Cadeira Ergonômica,Marketplace,Fernanda Rocha,1,1,1369.05,952.41,416.64,30.43,1369.05
+2026/03,Centro-Oeste,GO,Acessórios,Headset Gamer,Loja Física,Fernanda Rocha,1,1,210.34,98.38,111.96,53.23,210.34
+2026/03,Centro-Oeste,GO,Acessórios,Headset Gamer,Representante,Bruno Lima,1,4,992.12,446.68,545.44,54.98,992.12
+2026/03,Centro-Oeste,GO,Acessórios,Mouse Wireless,E-commerce,Bruno Lima,1,3,310.8,114.48,196.32,63.17,310.8
+2026/03,Centro-Oeste,GO,Acessórios,Webcam Full HD,E-commerce,Diego Alves,1,5,1044.65,488.1,556.55,53.28,1044.65
+2026/03,Centro-Oeste,GO,Telefonia,Carregador USB-C,Representante,Bruno Lima,1,5,576.5,219.45,357.05,61.93,576.5
+2026/03,Nordeste,BA,Acessórios,Mouse Wireless,E-commerce,Diego Alves,1,2,179.46,73.22,106.24,59.2,179.46
+2026/03,Nordeste,BA,Acessórios,Mouse Wireless,Loja Física,Bruno Lima,1,3,276.28,108.33,167.95,60.79,276.28
+2026/03,Nordeste,BA,Informática,Monitor 24,Marketplace,Bruno Lima,1,1,816.39,575.77,240.62,29.47,816.39
+2026/03,Nordeste,BA,Informática,Monitor 24,Representante,Diego Alves,1,1,856.01,563.31,292.7,34.19,856.01
+2026/03,Nordeste,BA,Móveis,Cadeira Ergonômica,E-commerce,Ana Souza,1,1,1242.22,801.86,440.36,35.45,1242.22
+2026/03,Nordeste,BA,Móveis,Cadeira Ergonômica,Loja Física,Ana Souza,1,3,3883.72,2869.38,1014.34,26.12,3883.72
+2026/03,Nordeste,BA,Telefonia,Carregador USB-C,Representante,Carla Mendes,1,1,115.6,41.07,74.53,64.47,115.6
+2026/03,Nordeste,PE,Acessórios,Teclado Mecânico,E-commerce,Fernanda Rocha,1,1,305.73,142.67,163.06,53.33,305.73
+2026/03,Nordeste,PE,Acessórios,Teclado Mecânico,Marketplace,Ana Souza,1,1,327.11,144.29,182.82,55.89,327.11
+2026/03,Nordeste,PE,Acessórios,Webcam Full HD,Representante,Diego Alves,1,2,449.66,170.12,279.54,62.17,449.66
+2026/03,Nordeste,PE,Informática,Monitor 24,Loja Física,Fernanda Rocha,1,2,1667.64,1130.26,537.38,32.22,1667.64
+2026/03,Nordeste,PE,Informática,Monitor 24,Marketplace,Ana Souza,1,1,765.48,575.76,189.72,24.78,765.48
+2026/03,Nordeste,PE,Móveis,Mesa Office,E-commerce,Diego Alves,1,4,3012.6,1824.44,1188.16,39.44,3012.6
+2026/03,Nordeste,PE,Móveis,Mesa Office,Loja Física,Bruno Lima,1,2,1533.17,844.22,688.95,44.94,1533.17
+2026/03,Nordeste,PE,Móveis,Mesa Office,Marketplace,Ana Souza,1,10,7483.83,4509.5,2974.33,39.74,7483.83
+2026/03,Nordeste,PE,Telefonia,Carregador USB-C,Representante,Diego Alves,1,5,584.0,198.7,385.3,65.98,584.0
+2026/03,Norte,AM,Acessórios,Headset Gamer,Marketplace,,1,1,240.82,97.06,143.76,59.7,240.82
+2026/03,Norte,AM,Acessórios,Mouse Wireless,Marketplace,Fernanda Rocha,1,4,381.21,143.48,237.73,62.36,381.21
+2026/03,Norte,AM,Acessórios,Teclado Mecânico,Loja Física,Carla Mendes,1,2,696.44,270.78,425.66,61.12,696.44
+2026/03,Norte,AM,Acessórios,Webcam Full HD,Loja Física,Ana Souza,1,2,416.56,184.6,231.96,55.68,416.56
+2026/03,Norte,AM,Informática,Notebook Pro 14,E-commerce,Carla Mendes,1,1,4016.97,3176.02,840.95,20.93,4016.97
+2026/03,Norte,AM,Informática,Notebook Pro 14,Loja Física,Carla Mendes,1,2,8017.67,6472.74,1544.93,19.27,8017.67
+2026/03,Norte,AM,Móveis,Mesa Office,Representante,Fernanda Rocha,1,1,803.37,439.21,364.16,45.33,803.37
+2026/03,Norte,AM,Telefonia,Carregador USB-C,Marketplace,Diego Alves,1,2,202.88,79.96,122.92,60.59,202.88
+2026/03,Norte,AM,Telefonia,Smartphone X,E-commerce,Bruno Lima,1,5,14410.1,9471.0,4939.1,34.28,14410.1
+2026/03,Sudeste,MG,Acessórios,Webcam Full HD,Loja Física,Ana Souza,1,6,1270.44,581.46,688.98,54.23,1270.44
+2026/03,Sudeste,MG,Acessórios,Webcam Full HD,Marketplace,Ana Souza,1,4,788.97,377.88,411.09,52.1,788.97
+2026/03,Sudeste,MG,Acessórios,Webcam Full HD,Representante,Fernanda Rocha,1,1,200.48,86.81,113.67,56.7,200.48
+2026/03,Sudeste,MG,Móveis,Cadeira Ergonômica,Representante,Diego Alves,1,1,1272.46,811.52,460.94,36.22,1272.46
+2026/03,Sudeste,RJ,Informática,Monitor 24,E-commerce,Fernanda Rocha,1,3,2700.55,1888.65,811.9,30.06,2700.55
+2026/03,Sudeste,RJ,Informática,Notebook Pro 14,Loja Física,Fernanda Rocha,1,1,3648.0,3093.18,554.82,15.21,3648.0
+2026/03,Sudeste,RJ,Telefonia,Smartphone X,Representante,Bruno Lima,1,2,5812.74,3891.32,1921.42,33.06,5812.74
+2026/03,Sudeste,RJ,Telefonia,Smartphone X,Representante,Fernanda Rocha,1,3,7962.5,5708.94,2253.56,28.3,7962.5
+2026/03,Sudeste,SP,Acessórios,Headset Gamer,Loja Física,Ana Souza,1,5,1075.0,548.9,526.1,48.94,1075.0
+2026/03,Sudeste,SP,Acessórios,Mouse Wireless,Marketplace,Diego Alves,1,1,86.69,39.38,47.31,54.57,86.69
+2026/03,Sudeste,SP,Acessórios,Mouse Wireless,Representante,Carla Mendes,2,8,708.3499999999999,294.20000000000005,414.15,58.47,354.18
+2026/03,Sudeste,SP,Acessórios,Teclado Mecânico,Loja Física,Fernanda Rocha,1,1,333.62,152.13,181.49,54.4,333.62
+2026/03,Sudeste,SP,Acessórios,Teclado Mecânico,Representante,Carla Mendes,1,3,830.12,413.55,416.57,50.18,830.12
+2026/03,Sudeste,SP,Acessórios,Webcam Full HD,E-commerce,Bruno Lima,1,2,416.22,171.46,244.76,58.81,416.22
+2026/03,Sudeste,SP,Móveis,Mesa Office,E-commerce,Diego Alves,1,3,2122.17,1286.1,836.07,39.4,2122.17
+2026/03,Sudeste ,GO,Acessórios,Teclado Mecânico,Loja Física,Fernanda Rocha,1,5,1555.2,689.05,866.15,55.69,1555.2
+2026/03,Sul,PR,Acessórios,Headset Gamer,Loja Física,Ana Souza,1,3,667.5,291.54,375.96,56.32,667.5
+2026/03,Sul,PR,Acessórios,Mouse Wireless,Loja Física,Diego Alves,1,3,257.09,115.62,141.47,55.03,257.09
+2026/03,Sul,PR,Acessórios,Webcam Full HD,Marketplace,Carla Mendes,1,1,233.08,97.74,135.34,58.07,233.08
+2026/03,Sul,PR,Móveis,Cadeira Ergonômica,Representante,Diego Alves,1,2,2842.17,1695.26,1146.91,40.35,2842.17
+2026/03,Sul,PR,Móveis,Mesa Office,Marketplace,Bruno Lima,1,4,2887.76,1776.92,1110.84,38.47,2887.76
+2026/03,Sul,PR,Móveis,Mesa Office,Representante,Ana Souza,1,4,2724.03,1865.96,858.07,31.5,2724.03
+2026/03,Sul,PR,Telefonia,Carregador USB-C,Loja Física,Diego Alves,1,6,539.07,238.2,300.87,55.81,539.07
+2026/03,Sul,PR,Telefonia,Carregador USB-C,Loja Física,Fernanda Rocha,1,2,220.08,87.92,132.16,60.05,220.08
+2026/03,Sul,PR,Telefonia,Smartphone X,Marketplace,Bruno Lima,1,1,2772.06,2068.72,703.34,25.37,2772.06
+2026/03,Sul,RS,Acessórios,Mouse Wireless,Representante,Diego Alves,1,1,88.92,40.53,48.39,54.42,88.92
+2026/03,Sul,RS,Acessórios,Webcam Full HD,E-commerce,Carla Mendes,1,4,935.36,369.88,565.48,60.46,935.36
+2026/03,Sul,RS,Acessórios,Webcam Full HD,Representante,Bruno Lima,1,10,2058.34,838.9,1219.44,59.24,2058.34
+2026/03,Sul,RS,Móveis,Mesa Office,Loja Física,Fernanda Rocha,1,3,2536.36,1200.33,1336.03,52.68,2536.36
+2026/03,Sul,RS,Telefonia,Carregador USB-C,Marketplace,Carla Mendes,1,2,232.59,84.52,148.07,63.66,232.59
+2026/04,Centro-Oeste,,Acessórios,Mouse Wireless,Representante,Carla Mendes,1,2,174.34,78.0,96.34,55.26,174.34
+2026/04,Centro-Oeste,GO,Acessórios,Headset Gamer,Representante,Diego Alves,1,6,1403.1,590.28,812.82,57.93,1403.1
+2026/04,Centro-Oeste,GO,Acessórios,Mouse Wireless,Representante,Carla Mendes,1,2,191.4,76.2,115.2,60.19,191.4
+2026/04,Centro-Oeste,GO,Acessórios,Teclado Mecânico,Loja Física,Carla Mendes,1,10,2965.58,1412.5,1553.08,52.37,2965.58
+2026/04,Centro-Oeste,GO,Acessórios,Webcam Full HD,E-commerce,Diego Alves,1,5,924.94,432.65,492.29,53.22,924.94
+2026/04,Centro-Oeste,GO,Acessórios,Webcam Full HD,Marketplace,Diego Alves,1,8,1716.43,722.08,994.35,57.93,1716.43
+2026/04,Centro-Oeste,GO,Móveis,Cadeira Ergonômica,Marketplace,Diego Alves,1,1,1264.78,915.72,349.06,27.6,1264.78
+2026/04,Centro-Oeste,GO,Móveis,Mesa Office,Loja Física,Ana Souza,1,2,1297.4,801.88,495.52,38.19,1297.4
+2026/04,Centro-Oeste,GO,Móveis,Mesa Office,Representante,Bruno Lima,1,5,4194.5,2294.5,1900.0,45.3,4194.5
+2026/04,Centro-Oeste,GO,Móveis,Mesa Office,Representante,Fernanda Rocha,1,5,4248.5,2175.65,2072.85,48.79,4248.5
+2026/04,Centro-Oeste,GO,Telefonia,Carregador USB-C,E-commerce,Carla Mendes,1,2,226.84,91.48,135.36,59.67,226.84
+2026/04,Centro-Oeste,GO,Telefonia,Smartphone X,Loja Física,Bruno Lima,1,1,2896.24,1895.37,1000.87,34.56,2896.24
+2026/04,Nordeste,BA,Acessórios,Headset Gamer,Representante,Bruno Lima,1,1,224.91,103.71,121.2,53.89,224.91
+2026/04,Nordeste,BA,Informática,Monitor 24,Loja Física,Carla Mendes,1,4,3346.69,2605.68,741.01,22.14,3346.69
+2026/04,Nordeste,BA,Telefonia,Smartphone X,Marketplace,Ana Souza,1,4,9362.73,8181.52,1181.21,12.62,9362.73
+2026/04,Nordeste,PE,Acessórios,Mouse Wireless,Loja Física,Carla Mendes,1,1,88.16,40.14,48.02,54.47,88.16
 2026/04,Nordeste,PE,Acessórios,Teclado Mecânico,E-commerce,Bruno Lima,1,6,2009.7,949.68,1060.02,52.75,2009.7
+2026/04,Nordeste,PE,Acessórios,Webcam Full HD,Loja Física,Diego Alves,1,3,556.21,287.04,269.17,48.39,556.21
+2026/04,Nordeste,PE,Móveis,Cadeira Ergonômica,Loja Física,Fernanda Rocha,1,3,4206.36,2469.0,1737.36,41.3,4206.36
+2026/04,Nordeste,PE,Móveis,Mesa Office,Marketplace,Carla Mendes,1,1,783.62,397.7,385.92,49.25,783.62
+2026/04,Norte,AM,Acessórios,Headset Gamer,E-commerce,Diego Alves,1,2,520.8,227.28,293.52,56.36,520.8
+2026/04,Norte,AM,Acessórios,Mouse Wireless,Loja Física,Diego Alves,1,1,93.47,41.42,52.05,55.69,93.47
+2026/04,Norte,AM,Acessórios,Mouse Wireless,Representante,Carla Mendes,1,3,288.66,108.51,180.15,62.41,288.66
+2026/04,Norte,AM,Móveis,Cadeira Ergonômica,Loja Física,Bruno Lima,1,4,5788.84,3280.6,2508.24,43.33,5788.84
+2026/04,Norte,AM,Telefonia,Smartphone X,Marketplace,Diego Alves,1,4,10337.29,7917.84,2419.45,23.41,10337.29
+2026/04,Sudeste,MG,Acessórios,Webcam Full HD,Representante,Ana Souza,1,1,233.58,93.75,139.83,59.86,233.58
+2026/04,Sudeste,MG,Acessórios,Webcam Full HD,Representante,Fernanda Rocha,1,1,217.34,97.57,119.77,55.11,217.34
+2026/04,Sudeste,MG,Informática,Notebook Pro 14,E-commerce,,1,1,4072.08,2975.82,1096.26,26.92,4072.08
+2026/04,Sudeste,MG,Móveis,Cadeira Ergonômica,E-commerce,Fernanda Rocha,1,6,7018.51,5314.14,1704.37,24.28,7018.51
+2026/04,Sudeste,MG,Telefonia,Carregador USB-C,Representante,Fernanda Rocha,1,4,373.9,156.2,217.7,58.22,373.9
+2026/04,Sudeste,MG,Telefonia,Smartphone X,Loja Física,Bruno Lima,1,3,8693.58,6524.55,2169.03,24.95,8693.58
+2026/04,Sudeste,MG,Telefonia,Smartphone X,Loja Física,Carla Mendes,1,2,5324.54,4052.56,1271.98,23.89,5324.54
+2026/04,Sudeste,RJ,Acessórios,Headset Gamer,E-commerce,Ana Souza,1,10,2324.02,1012.6,1311.42,56.43,2324.02
+2026/04,Sudeste,RJ,Acessórios,Headset Gamer,E-commerce,Fernanda Rocha,1,6,1375.08,665.7,709.38,51.59,1375.08
+2026/04,Sudeste,RJ,Acessórios,Headset Gamer,Loja Física,Diego Alves,1,3,699.36,308.82,390.54,55.84,699.36
+2026/04,Sudeste,RJ,Acessórios,Headset Gamer,Representante,Diego Alves,1,3,743.85,325.26,418.59,56.27,743.85
+2026/04,Sudeste,RJ,Acessórios,Mouse Wireless,E-commerce,Carla Mendes,1,10,949.4,377.0,572.4,60.29,949.4
+2026/04,Sudeste,RJ,Acessórios,Webcam Full HD,Loja Física,Carla Mendes,1,2,440.1,169.28,270.82,61.54,440.1
+2026/04,Sudeste,RJ,Móveis,Cadeira Ergonômica,Marketplace,Fernanda Rocha,1,2,2478.04,1606.94,871.1,35.15,2478.04
+2026/04,Sudeste,RJ,Telefonia,Smartphone X,Marketplace,Fernanda Rocha,1,10,27712.6,20204.3,7508.3,27.09,27712.6
+2026/04,Sudeste,SP,Acessórios,Headset Gamer,Marketplace,Carla Mendes,1,3,785.13,294.24,490.89,62.52,785.13
+2026/04,Sudeste,SP,Acessórios,Mouse Wireless,Loja Física,Fernanda Rocha,1,4,368.04,162.76,205.28,55.78,368.04
+2026/04,Sudeste,SP,Acessórios,Mouse Wireless,Marketplace,Fernanda Rocha,1,3,288.09,107.34,180.75,62.74,288.09
+2026/04,Sudeste,SP,Acessórios,Teclado Mecânico,Marketplace,Fernanda Rocha,1,6,1911.6,830.34,1081.26,56.56,1911.6
+2026/04,Sudeste,SP,Acessórios,Webcam Full HD,Marketplace,Fernanda Rocha,1,3,681.2,292.41,388.79,57.07,681.2
+2026/04,Sudeste,SP,Informática,Monitor 24,Representante,Fernanda Rocha,1,10,8780.6,6349.5,2431.1,27.69,8780.6
+2026/04,Sudeste,SP,Informática,Notebook Pro 14,Loja Física,Bruno Lima,1,2,8210.55,5690.8,2519.75,30.69,8210.55
+2026/04,Sudeste,SP,Móveis,Cadeira Ergonômica,E-commerce,Ana Souza,1,3,4298.11,2517.99,1780.12,41.42,4298.11
+2026/04,Sudeste,SP,Móveis,Cadeira Ergonômica,Marketplace,Ana Souza,1,2,2505.93,1716.0,789.93,31.52,2505.93
+2026/04,Sudeste,SP,Telefonia,Carregador USB-C,Marketplace,Fernanda Rocha,1,2,219.51,80.96,138.55,63.12,219.51
+2026/04,Sudeste,SP,Telefonia,Carregador USB-C,Representante,Carla Mendes,2,10,1127.4,423.5,703.9,62.44,563.7
+2026/04,Sul,PR,Acessórios,Mouse Wireless,Loja Física,Bruno Lima,1,1,91.97,40.92,51.05,55.51,91.97
+2026/04,Sul,PR,Acessórios,Teclado Mecânico,Loja Física,Fernanda Rocha,1,3,849.28,414.84,434.44,51.15,849.28
+2026/04,Sul,PR,Acessórios,Webcam Full HD,Loja Física,Bruno Lima,1,10,2019.98,894.6,1125.38,55.71,2019.98
+2026/04,Sul,PR,Informática,Notebook Pro 14,Representante,Diego Alves,1,10,41863.2,32442.6,9420.6,22.5,41863.2
+2026/04,Sul,PR,Móveis,Cadeira Ergonômica,Marketplace,Fernanda Rocha,1,8,9936.96,7606.8,2330.16,23.45,9936.96
+2026/04,Sul,RS,Acessórios,Mouse Wireless,Loja Física,Fernanda Rocha,1,2,176.3,72.14,104.16,59.08,176.3
+2026/04,Sul,RS,Acessórios,Mouse Wireless,Marketplace,Carla Mendes,1,4,369.21,152.56,216.65,58.68,369.21
+2026/04,Sul,RS,Acessórios,Mouse Wireless,Representante,Bruno Lima,1,3,298.98,120.75,178.23,59.61,298.98
+2026/04,Sul,RS,Acessórios,Teclado Mecânico,Representante,Bruno Lima,1,3,932.55,439.11,493.44,52.91,932.55
+2026/04,Sul,RS,Acessórios,Webcam Full HD,Loja Física,Ana Souza,1,2,468.82,172.16,296.66,63.28,468.82
+2026/04,Sul,RS,Telefonia,Carregador USB-C,Marketplace,Bruno Lima,1,8,882.86,324.24,558.62,63.27,882.86
+2026/04,Sul,RS,Telefonia,Smartphone X,E-commerce,Ana Souza,1,2,5513.65,3783.22,1730.43,31.38,5513.65
+2026/04,Sul,RS,Telefonia,Smartphone X,E-commerce,Fernanda Rocha,1,6,17060.57,12837.72,4222.85,24.75,17060.57
+2026/04,Sul,RS,Telefonia,Smartphone X,Loja Física,Ana Souza,1,1,2692.75,2159.22,533.53,19.81,2692.75
+2026/05,Centro-Oeste,,Acessórios,Webcam Full HD,E-commerce,Ana Souza,1,5,1103.25,437.4,665.85,60.35,1103.25
+2026/05,Centro-Oeste,GO,Acessórios,Headset Gamer,Loja Física,Carla Mendes,1,2,495.52,220.2,275.32,55.56,495.52
+2026/05,Centro-Oeste,GO,Acessórios,Mouse Wireless,Marketplace,Carla Mendes,1,4,388.8,148.76,240.04,61.74,388.8
+2026/05,Centro-Oeste,GO,Acessórios,Mouse Wireless,Representante,Bruno Lima,1,5,458.28,205.0,253.28,55.27,458.28
+2026/05,Centro-Oeste,GO,Acessórios,Teclado Mecânico,E-commerce,Ana Souza,1,3,1013.7,425.61,588.09,58.01,1013.7
+2026/05,Centro-Oeste,GO,Acessórios,Webcam Full HD,Marketplace,Bruno Lima,1,4,931.68,379.56,552.12,59.26,931.68
+2026/05,Centro-Oeste,GO,Informática,Notebook Pro 14,E-commerce,Ana Souza,1,5,20734.1,16055.7,4678.4,22.56,20734.1
 2026/05,Centro-Oeste,GO,Informática,Notebook Pro 14,E-commerce,Fernanda Rocha,1,2,8823.8,6369.68,2454.12,27.81,8823.8
+2026/05,Centro-Oeste,GO,Móveis,Cadeira Ergonômica,Loja Física,Bruno Lima,1,3,4211.07,2500.68,1710.39,40.62,4211.07
+2026/05,Centro-Oeste,GO,Móveis,Mesa Office,Loja Física,Ana Souza,1,5,3860.1,2349.55,1510.55,39.13,3860.1
+2026/05,Centro-Oeste,GO,Telefonia,Smartphone X,Marketplace,Fernanda Rocha,1,2,5729.78,3762.34,1967.44,34.34,5729.78
+2026/05,Nordeste,BA,Acessórios,Headset Gamer,Loja Física,Bruno Lima,1,1,216.05,115.07,100.98,46.74,216.05
+2026/05,Nordeste,BA,Acessórios,Headset Gamer,Marketplace,Carla Mendes,1,3,718.51,326.13,392.38,54.61,718.51
+2026/05,Nordeste,BA,Acessórios,Mouse Wireless,E-commerce,Fernanda Rocha,1,3,318.03,111.09,206.94,65.07,318.03
+2026/05,Nordeste,BA,Acessórios,Mouse Wireless,Loja Física,Fernanda Rocha,1,5,509.59,207.3,302.29,59.32,509.59
+2026/05,Nordeste,BA,Acessórios,Mouse Wireless,Marketplace,Diego Alves,1,1,86.26,40.67,45.59,52.85,86.26
+2026/05,Nordeste,BA,Acessórios,Webcam Full HD,Loja Física,Bruno Lima,1,1,208.39,85.14,123.25,59.14,208.39
+2026/05,Nordeste,BA,Acessórios,Webcam Full HD,Representante,Bruno Lima,1,1,208.56,90.68,117.88,56.52,208.56
+2026/05,Nordeste,BA,Informática,Monitor 24,Marketplace,Fernanda Rocha,1,1,868.82,596.52,272.3,31.34,868.82
+2026/05,Nordeste,BA,Informática,Notebook Pro 14,Loja Física,Carla Mendes,1,4,16682.4,12097.16,4585.24,27.49,16682.4
+2026/05,Nordeste,BA,Informática,Notebook Pro 14,Representante,Bruno Lima,1,3,11536.88,9716.82,1820.06,15.78,11536.88
+2026/05,Nordeste,BA,Móveis,Mesa Office,Marketplace,Bruno Lima,1,2,1487.02,794.16,692.86,46.59,1487.02
+2026/05,Nordeste,BA,Telefonia,Carregador USB-C,Representante,Diego Alves,1,5,484.02,213.3,270.72,55.93,484.02
+2026/05,Nordeste,BA,Telefonia,Smartphone X,Marketplace,Diego Alves,1,1,2557.2,1987.27,569.93,22.29,2557.2
+2026/05,Nordeste,PE,Acessórios,Headset Gamer,E-commerce,Bruno Lima,1,2,440.16,198.0,242.16,55.02,440.16
+2026/05,Nordeste,PE,Acessórios,Mouse Wireless,E-commerce,Bruno Lima,1,5,433.4,192.1,241.3,55.68,433.4
+2026/05,Nordeste,PE,Acessórios,Teclado Mecânico,Representante,Bruno Lima,1,1,346.06,144.99,201.07,58.1,346.06
+2026/05,Nordeste,PE,Informática,Notebook Pro 14,Marketplace,Carla Mendes,1,2,7959.9,5913.08,2046.82,25.71,7959.9
+2026/05,Nordeste,PE,Móveis,Cadeira Ergonômica,Marketplace,Bruno Lima,1,1,1291.05,954.81,336.24,26.04,1291.05
 2026/05,Nordeste,PE,Telefonia,Smartphone X,Representante,Carla Mendes,1,3,8788.44,6214.41,2574.03,29.29,8788.44
+2026/05,Norte,AM,Acessórios,Teclado Mecânico,Loja Física,Ana Souza,1,2,636.69,268.8,367.89,57.78,636.69
+2026/05,Norte,AM,Acessórios,Webcam Full HD,E-commerce,Bruno Lima,1,5,952.54,414.75,537.79,56.46,952.54
+2026/05,Norte,AM,Acessórios,Webcam Full HD,Loja Física,Diego Alves,1,3,697.5,271.32,426.18,61.1,697.5
+2026/05,Norte,AM,Acessórios,Webcam Full HD,Representante,Diego Alves,1,2,412.4,176.94,235.46,57.1,412.4
+2026/05,Norte,AM,Informática,Monitor 24,Marketplace,Fernanda Rocha,1,10,8119.5,5670.0,2449.5,30.17,8119.5
+2026/05,Norte,AM,Telefonia,Carregador USB-C,Marketplace,Diego Alves,1,2,199.26,89.08,110.18,55.29,199.26
+2026/05,Sudeste,MG,Acessórios,Headset Gamer,Marketplace,Carla Mendes,1,1,219.17,99.32,119.85,54.68,219.17
+2026/05,Sudeste,MG,Acessórios,Mouse Wireless,E-commerce,Ana Souza,1,10,832.88,406.4,426.48,51.21,832.88
+2026/05,Sudeste,MG,Acessórios,Teclado Mecânico,E-commerce,Bruno Lima,1,4,1338.92,608.84,730.08,54.53,1338.92
+2026/05,Sudeste,MG,Acessórios,Webcam Full HD,Marketplace,Fernanda Rocha,1,3,606.87,265.56,341.31,56.24,606.87
+2026/05,Sudeste,MG,Informática,Notebook Pro 14,Marketplace,Ana Souza,1,2,7819.2,6349.58,1469.62,18.8,7819.2
+2026/05,Sudeste,MG,Móveis,Mesa Office,Representante,Bruno Lima,1,3,2307.25,1332.78,974.47,42.24,2307.25
+2026/05,Sudeste,RJ,Acessórios,Webcam Full HD,Marketplace,Bruno Lima,1,2,414.78,167.72,247.06,59.56,414.78
+2026/05,Sudeste,RJ,Informática,Monitor 24,Representante,Diego Alves,1,2,1767.18,1321.72,445.46,25.21,1767.18
+2026/05,Sudeste,RJ,Informática,Notebook Pro 14,Representante,Carla Mendes,1,5,19092.15,15053.9,4038.25,21.15,19092.15
+2026/05,Sudeste,RJ,Telefonia,Smartphone X,Loja Física,Carla Mendes,1,4,9946.5,7469.16,2477.34,24.91,9946.5
+2026/05,Sudeste,SP,Acessórios,Headset Gamer,E-commerce,Ana Souza,1,2,482.26,229.88,252.38,52.33,482.26
+2026/05,Sudeste,SP,Acessórios,Mouse Wireless,Loja Física,Ana Souza,1,1,93.41,35.98,57.43,61.48,93.41
+2026/05,Sudeste,SP,Acessórios,Teclado Mecânico,Marketplace,Diego Alves,1,5,1559.3,778.95,780.35,50.04,1559.3
+2026/05,Sudeste,SP,Acessórios,Teclado Mecânico,Representante,Ana Souza,1,1,326.49,135.73,190.76,58.43,326.49
+2026/05,Sudeste,SP,Informática,Monitor 24,Marketplace,Ana Souza,2,4,3531.4399999999996,2413.58,1117.8600000000001,31.65,1765.72
+2026/05,Sudeste,SP,Informática,Monitor 24,Representante,Carla Mendes,1,2,1819.08,1280.6,538.48,29.6,1819.08
+2026/05,Sudeste,SP,Informática,Notebook Pro 14,Representante,Ana Souza,1,6,27152.4,17890.26,9262.14,34.11,27152.4
+2026/05,Sudeste,SP,Móveis,Cadeira Ergonômica,Representante,Diego Alves,1,2,2517.67,1739.68,777.99,30.9,2517.67
+2026/05,Sudeste,SP,Móveis,Mesa Office,Loja Física,Diego Alves,1,4,2721.6,1658.36,1063.24,39.07,2721.6
+2026/05,Sudeste,SP,Telefonia,Carregador USB-C,E-commerce,,1,1,111.4,41.55,69.85,62.7,111.4
+2026/05,Sudeste,SP,Telefonia,Carregador USB-C,Loja Física,Ana Souza,1,2,198.4,84.24,114.16,57.54,198.4
+2026/05,Sudeste,SP,Telefonia,Carregador USB-C,Loja Física,Bruno Lima,1,8,802.4,349.12,453.28,56.49,802.4
+2026/05,Sudeste,SP,Telefonia,Smartphone X,E-commerce,Ana Souza,1,6,18544.2,11037.84,7506.36,40.48,18544.2
+2026/05,Sudeste ,PE,Acessórios,Teclado Mecânico,Marketplace,Bruno Lima,1,3,1003.59,437.88,565.71,56.37,1003.59
+2026/05,Sul,PR,Acessórios,Headset Gamer,Loja Física,Carla Mendes,1,3,649.14,328.2,320.94,49.44,649.14
+2026/05,Sul,PR,Acessórios,Mouse Wireless,E-commerce,Fernanda Rocha,1,6,549.06,212.16,336.9,61.36,549.06
+2026/05,Sul,PR,Acessórios,Teclado Mecânico,Loja Física,Ana Souza,1,5,1638.2,723.05,915.15,55.86,1638.2
+2026/05,Sul,PR,Acessórios,Teclado Mecânico,Marketplace,Diego Alves,1,5,1365.02,749.75,615.27,45.07,1365.02
+2026/05,Sul,PR,Móveis,Cadeira Ergonômica,Marketplace,Carla Mendes,1,5,6661.65,4316.65,2345.0,35.2,6661.65
+2026/05,Sul,PR,Móveis,Cadeira Ergonômica,Representante,Carla Mendes,1,8,9616.43,7360.48,2255.95,23.46,9616.43
+2026/05,Sul,RS,Acessórios,Mouse Wireless,E-commerce,Bruno Lima,1,5,449.92,188.0,261.92,58.21,449.92
+2026/05,Sul,RS,Acessórios,Mouse Wireless,Representante,Diego Alves,1,6,590.22,238.32,351.9,59.62,590.22
+2026/05,Sul,RS,Informática,Monitor 24,Loja Física,Diego Alves,1,3,2532.44,1873.65,658.79,26.01,2532.44
+2026/05,Sul,RS,Informática,Notebook Pro 14,E-commerce,Ana Souza,1,1,4037.0,3324.87,712.13,17.64,4037.0
+2026/05,Sul,RS,Telefonia,Smartphone X,E-commerce,Ana Souza,1,2,4585.77,3978.42,607.35,13.24,4585.77
+2026/05,Sul,RS,Telefonia,Smartphone X,Loja Física,Bruno Lima,1,2,5509.62,3651.5,1858.12,33.73,5509.62
+2026/06,Centro-Oeste,GO,Acessórios,Mouse Wireless,Loja Física,Carla Mendes,1,1,81.31,39.35,41.96,51.6,81.31
+2026/06,Centro-Oeste,GO,Acessórios,Teclado Mecânico,Representante,Fernanda Rocha,1,6,1742.28,869.16,873.12,50.11,1742.28
+2026/06,Centro-Oeste,GO,Acessórios,Webcam Full HD,Marketplace,Diego Alves,1,3,530.98,289.71,241.27,45.44,530.98
+2026/06,Centro-Oeste,GO,Informática,Monitor 24,E-commerce,Ana Souza,1,2,1885.82,1191.64,694.18,36.81,1885.82
+2026/06,Centro-Oeste,GO,Informática,Monitor 24,Marketplace,Carla Mendes,1,8,7194.88,5137.12,2057.76,28.6,7194.88
+2026/06,Centro-Oeste,GO,Móveis,Cadeira Ergonômica,Representante,Ana Souza,1,3,4212.7,2510.64,1702.06,40.4,4212.7
+2026/06,Centro-Oeste,GO,Telefonia,Carregador USB-C,Marketplace,Carla Mendes,1,2,203.89,89.74,114.15,55.99,203.89
+2026/06,Centro-Oeste,GO,Telefonia,Carregador USB-C,Representante,Diego Alves,2,7,633.89,299.27,334.62,52.79,316.95
+2026/06,Nordeste,BA,Acessórios,Mouse Wireless,Marketplace,Fernanda Rocha,1,4,333.25,164.8,168.45,50.55,333.25
+2026/06,Nordeste,BA,Acessórios,Webcam Full HD,ecommerce,Diego Alves,1,3,577.29,289.23,288.06,49.9,577.29
+2026/06,Nordeste,BA,Informática,Notebook Pro 14,Marketplace,Bruno Lima,1,1,3856.58,3292.0,564.58,14.64,3856.58
+2026/06,Nordeste,BA,Telefonia,Carregador USB-C,Marketplace,Diego Alves,1,2,228.94,92.36,136.58,59.66,228.94
+2026/06,Nordeste,BA,Telefonia,Smartphone X,Loja Física,Diego Alves,1,6,15940.21,11848.44,4091.77,25.67,15940.21
+2026/06,Nordeste,BA,Telefonia,Smartphone X,Representante,Bruno Lima,1,2,5104.06,3944.96,1159.1,22.71,5104.06
+2026/06,Nordeste,PE,Acessórios,Headset Gamer,Loja Física,Fernanda Rocha,1,3,744.48,299.04,445.44,59.83,744.48
+2026/06,Nordeste,PE,Móveis,Mesa Office,ecommerce,Bruno Lima,1,8,6325.92,3491.84,2834.08,44.8,6325.92
+2026/06,Nordeste,PE,Telefonia,Carregador USB-C,E-commerce,Bruno Lima,1,1,121.97,39.92,82.05,67.27,121.97
+2026/06,Nordeste,PE,Telefonia,Carregador USB-C,Representante,Diego Alves,1,4,416.8,160.64,256.16,61.46,416.8
+2026/06,Norte,AM,Acessórios,Mouse Wireless,Representante,Ana Souza,1,2,196.48,81.44,115.04,58.55,196.48
+2026/06,Norte,AM,Acessórios,Webcam Full HD,Marketplace,Carla Mendes,1,1,231.25,89.01,142.24,61.51,231.25
+2026/06,Norte,AM,Acessórios,Webcam Full HD,Marketplace,Fernanda Rocha,1,4,932.8,334.88,597.92,64.1,932.8
+2026/06,Norte,AM,Informática,Notebook Pro 14,Loja Física,Ana Souza,1,4,15895.06,11971.92,3923.14,24.68,15895.06
+2026/06,Norte,AM,Informática,Notebook Pro 14,Loja Física,Carla Mendes,1,8,31416.42,24337.2,7079.22,22.53,31416.42
+2026/06,Norte,AM,Telefonia,Smartphone X,Loja Física,Fernanda Rocha,1,10,25356.54,20930.4,4426.14,17.46,25356.54
+2026/06,Sudeste,MG,Acessórios,Headset Gamer,Representante,Diego Alves,1,2,497.48,200.32,297.16,59.73,497.48
+2026/06,Sudeste,MG,Acessórios,Teclado Mecânico,Loja Física,Carla Mendes,1,3,958.35,464.37,493.98,51.54,958.35
+2026/06,Sudeste,MG,Acessórios,Teclado Mecânico,Representante,Diego Alves,1,1,333.29,134.77,198.52,59.56,333.29
+2026/06,Sudeste,MG,Informática,Monitor 24,Loja Física,Ana Souza,1,1,833.22,662.94,170.28,20.44,833.22
+2026/06,Sudeste,MG,Informática,Notebook Pro 14,Loja Física,Bruno Lima,1,2,7809.44,6240.36,1569.08,20.09,7809.44
+2026/06,Sudeste,MG,Móveis,Cadeira Ergonômica,E-commerce,Bruno Lima,1,2,2921.54,1697.2,1224.34,41.91,2921.54
+2026/06,Sudeste,MG,Móveis,Mesa Office,Marketplace,Bruno Lima,1,1,820.42,427.78,392.64,47.86,820.42
+2026/06,Sudeste,MG,Telefonia,Carregador USB-C,Marketplace,Diego Alves,1,10,1177.87,450.1,727.77,61.79,1177.87
+2026/06,Sudeste,RJ,Acessórios,Headset Gamer,Loja Física,Fernanda Rocha,1,1,238.78,106.35,132.43,55.46,238.78
+2026/06,Sudeste,RJ,Acessórios,Mouse Wireless,Marketplace,Diego Alves,2,5,451.98,179.46,272.52,60.29,225.99
+2026/06,Sudeste,RJ,Acessórios,Teclado Mecânico,Marketplace,Bruno Lima,1,1,296.82,139.18,157.64,53.11,296.82
+2026/06,Sudeste,RJ,Acessórios,Webcam Full HD,Representante,Ana Souza,1,8,1661.11,680.72,980.39,59.02,1661.11
+2026/06,Sudeste,RJ,Informática,Monitor 24,Marketplace,Carla Mendes,1,1,806.9,640.74,166.16,20.59,806.9
+2026/06,Sudeste,RJ,Móveis,Cadeira Ergonômica,Marketplace,Fernanda Rocha,1,2,2281.23,1775.7,505.53,22.16,2281.23
+2026/06,Sudeste,RJ,Telefonia,Carregador USB-C,Representante,Ana Souza,1,2,236.86,82.32,154.54,65.25,236.86
+2026/06,Sudeste,SP,Acessórios,Headset Gamer,Loja Física,Bruno Lima,1,2,464.66,219.74,244.92,52.71,464.66
+2026/06,Sudeste,SP,Acessórios,Headset Gamer,Representante,Diego Alves,1,6,1353.46,634.62,718.84,53.11,1353.46
+2026/06,Sudeste,SP,Acessórios,Teclado Mecânico,Marketplace,Diego Alves,1,2,662.66,271.38,391.28,59.05,662.66
+2026/06,Sudeste,SP,Acessórios,Webcam Full HD,E-commerce,Fernanda Rocha,1,2,457.32,188.44,268.88,58.79,457.32
+2026/06,Sudeste,SP,Acessórios,Webcam Full HD,Representante,Ana Souza,1,8,1518.72,663.36,855.36,56.32,1518.72
+2026/06,Sudeste,SP,Acessórios,Webcam Full HD,Representante,Fernanda Rocha,1,4,789.95,384.4,405.55,51.34,789.95
+2026/06,Sudeste,SP,Informática,Monitor 24,Representante,Carla Mendes,1,3,2631.19,1739.88,891.31,33.87,2631.19
+2026/06,Sudeste,SP,Informática,Notebook Pro 14,E-commerce,Diego Alves,1,2,7857.03,5728.48,2128.55,27.09,7857.03
+2026/06,Sudeste,SP,Móveis,Cadeira Ergonômica,E-commerce,Ana Souza,1,2,2557.27,1843.36,713.91,27.92,2557.27
+2026/06,Sudeste,SP,Móveis,Mesa Office,Loja Física,Diego Alves,1,1,670.76,442.59,228.17,34.02,670.76
+2026/06,Sudeste,SP,Telefonia,Carregador USB-C,Loja Física,Fernanda Rocha,1,2,205.58,82.74,122.84,59.75,205.58
+2026/06,Sudeste,SP,Telefonia,Smartphone X,Representante,Carla Mendes,1,1,2359.91,2089.76,270.15,11.45,2359.91
+2026/06,Sul,,Acessórios,Headset Gamer,Marketplace,Bruno Lima,1,10,2420.1,1085.7,1334.4,55.14,2420.1
+2026/06,Sul,PR,Acessórios,Mouse Wireless,Representante,Bruno Lima,1,3,295.02,114.81,180.21,61.08,295.02
+2026/06,Sul,PR,Acessórios,Teclado Mecânico,Marketplace,Ana Souza,1,1,281.72,153.62,128.1,45.47,281.72
+2026/06,Sul,PR,Telefonia,Carregador USB-C,Marketplace,Fernanda Rocha,1,2,189.48,79.14,110.34,58.23,189.48
+2026/06,Sul,PR,Telefonia,Carregador USB-C,Representante,Ana Souza,1,4,410.65,167.24,243.41,59.27,410.65
+2026/06,Sul,PR,Telefonia,Smartphone X,Loja Física,Diego Alves,1,3,7778.91,5789.01,1989.9,25.58,7778.91
+2026/06,Sul,RS,Acessórios,Webcam Full HD,Marketplace,Fernanda Rocha,1,3,652.32,267.99,384.33,58.92,652.32
+2026/06,Sul,RS,Acessórios,Webcam Full HD,Representante,Ana Souza,1,3,684.45,264.69,419.76,61.33,684.45
+2026/06,Sul,RS,Informática,Monitor 24,E-commerce,Fernanda Rocha,1,1,866.2,584.73,281.47,32.49,866.2
+2026/06,Sul,RS,Informática,Monitor 24,Marketplace,Carla Mendes,1,8,6873.68,5015.84,1857.84,27.03,6873.68
+2026/06,Sul,RS,Informática,Notebook Pro 14,Loja Física,Fernanda Rocha,1,1,4660.01,3169.61,1490.4,31.98,4660.01
+2026/06,Sul,RS,Telefonia,Smartphone X,Loja Física,Carla Mendes,1,1,2728.47,1924.78,803.69,29.46,2728.47
+2026/06,Sul,RS,Telefonia,Smartphone X,Marketplace,Ana Souza,1,3,8942.37,5734.68,3207.69,35.87,8942.37
+2026/06,Sul,RS,Telefonia,Smartphone X,Marketplace,Bruno Lima,1,1,2772.33,2062.93,709.4,25.59,2772.33
+2026/06,Sul,RS,Telefonia,Smartphone X,ecommerce,Carla Mendes,1,1,3093.25,2112.94,980.31,31.69,3093.25
